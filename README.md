@@ -8,7 +8,7 @@
   <a href="https://www.strava.com/athletes/61933571">Strava</a> 
 </p>
 
-<h3 align="center"> I'm a Web Developer working in Piedmont, Italy.</h3>
+<h3 align="center"> I'm a Web Developer | Piedmont, Italy.</h3>
 
 ## 🧰 Languages and Tools:
 <p align="center">
