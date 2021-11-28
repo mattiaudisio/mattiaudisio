@@ -4,7 +4,8 @@
 <p align="center">
  <a href="https://soundcloud.com/mattiaudisio">Soundcloud</a> •
   <a href="https://www.spreaker.com/user/13721924">Spreaker</a> •
-  <a href="https://open.spotify.com/user/21ghl5ibouotweu6qimta5uyq">Spotify</a>
+  <a href="https://open.spotify.com/user/21ghl5ibouotweu6qimta5uyq">Spotify</a> •
+  <a href="https://www.strava.com/athletes/61933571">Strava</a> 
 </p>
 
 <h3 align="center"> I'm a Web Developer working in Piedmont, Italy.</h3>
