@@ -1,4 +1,4 @@
-<h3 align="center">Hi there 👋<br> I'm mattiaudisio</h3>
+# Hi, i'm Mattia
 
 <p align="justify"> 
 Hello 🖐️ I am a young guy who was introduced to the world of programming through school. I currently work mainly in the web world (especially in creating sites for stores and some ecommerce), but I have tried, both through school and personally, to do projects also in the world of android programming and mini software
