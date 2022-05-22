@@ -14,8 +14,8 @@ I code with : 👇<br /><br />
 
 ## 🏆 My Github Stats:
 <br /><br />
-<img alt="rzashakeri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mattiaudisio&show_icons=true&theme=tokyonight" height="250px"/>
-<img alt="rzashakeri's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattiaudisio&theme=tokyonight" height="250px"/>
+<img alt="rzashakeri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mattiaudisio&show_icons=true&theme=tokyonight" height="192px"/>
+<img alt="rzashakeri's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattiaudisio&theme=tokyonight" height="192px"/>
 
 <!---
 mattiaudisio/mattiaudisio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
