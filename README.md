@@ -1,3 +1,9 @@
+<h3 align="center">Hi there 👋<br> I'm mattiaudisio</h3>
+
+<p align="justify"> 
+Hello 🖐️ I am a young guy who was introduced to the world of programming through school. I currently work mainly in the web world (especially in creating sites for stores and some ecommerce), but I have tried, both through school and personally, to do projects also in the world of android programming and mini software
+
+</p>
 
 I code with : 👇<br /><br />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -5,19 +11,6 @@ I code with : 👇<br /><br />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-
-
-
-<h3 align="center">Hi there 👋<br> I'm mattiaudisio</h3>
-<p align="center">
- <a href="https://soundcloud.com/mattiaudisio">Soundcloud</a> •
-  <a href="https://www.spreaker.com/user/13721924">Spreaker</a> •
-  <a href="https://open.spotify.com/user/21ghl5ibouotweu6qimta5uyq">Spotify</a> •
-  <a href="https://www.strava.com/athletes/61933571">Strava</a> 
-</p>
-
-<h3 align="center"> I'm a Web Developer | Piedmont, Italy.</h3>
-
 
 ## 🏆 My Github Stats:
 <br /><br />
