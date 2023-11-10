@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/mattiaudisio/mattiaudisio/main/Image/banner.gif)]()
-<h1 align="center" style="color: #white;">Hi 👋, I'm Mattia Audisio</h1>
-<h3 align="center">A web developer from Italy</h3>
+<h1 align="center" style="color: #ffffff;">Hi 👋, I'm Mattia Audisio</h1>
+<h3 align="center" style="color: #ffffff;">A web developer from Italy</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/mattiaudisio/mattiaudisio/main/Image/programmer.gif">
 
 
