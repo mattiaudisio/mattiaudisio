@@ -1,0 +1,136 @@
+baseurl: "https://mattiaudisio.github.io/"
+languageCode: it-it
+title: Mattia Audisio
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Mattia Audisio
+  description: "Mattia Audisio, web developer in Cuneo"
+  keywords: [Blog, Portfolio, PaperMod]
+  author: Mattia Audisio
+  # author: ["Me", "You"] # multiple authors
+  #images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "images/favicon.ico"
+    favicon16x16: "images/favicon.ico"
+    favicon32x32: "images/favicon.ico"
+    apple_touch_icon: "images/favicon.ico"
+    safari_pinned_tab: "images/favicon.ico"
+
+  label:
+    text: "👨‍💻 Mattia Audisio"
+    # icon: "images/coding.png"
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    imageUrl: "images/image.png"
+    title: "Benvenuto! \U0001F44B"
+    subtitle: "Giovane programmatore con esperienza da Web Developer e Social Media Manager. Abilità nel lavorare sia in team che individualmente. Buona predisposizione nell'apprendimento di nuove tipologie di mansioni."
+    imageWidth: 220
+    imageHeight: 220
+    imageTitle: "Mattia Audisio"
+    buttons:
+      - name: CV
+        url: cv
+      - name: Progetti
+        url: project
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Mattia Audisio"
+    Content: Welcome to my blog
+
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/mattia-audisio/"
+    - name: github
+      url: "https://github.com/mattiaudisio"
+    - name: email
+      url: "mailto:mattia.audisio.01@proton.me"
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+    bing:
+      SiteVerificationTag: "XYZabc"
+    yandex:
+      SiteVerificationTag: "XYZabc"
+
+  
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: CV
+      name: CV
+      url: /cv/
+      weight: 1
+    - identifier: Progetti
+      name: Progetti
+      url: /project/
+      weight: 2
+    - identifier: Github
+      name: Github
+      url: https://github.com/mattiaudisio/
+      weight: 3  
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
+
+

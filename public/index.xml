@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mattia Audisio</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Mattia Audisio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Sun, 08 Sep 2024 14:06:54 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sito web: Mangiatori di nuvole</title>
+      <link>http://localhost:1313/project/mangiatoridinuvole/</link>
+      <pubDate>Sun, 08 Sep 2024 14:06:54 +0200</pubDate>
+      
+      <guid>http://localhost:1313/project/mangiatoridinuvole/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/projects/mangiatoridinuvole.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Realizzazione del sito della compagnia teatrale “&lt;a href=&#34;https://www.instagram.com/mangiatori_di_nuvole/&#34;&gt;Mangiatori di Nuvole&lt;/a&gt;” di Caraglio (CN). Sito realizzato utilizzando il CMS Wordpress con l’aggiunta del plugin Elementor e hostato tramite Altervista.&lt;/p&gt;
+&lt;p&gt;📍Maggiori informazioni &lt;a href=&#34;https://mangiatoridinuvole.altervista.org/&#34;&gt;qui&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Verdena Lyrics</title>
+      <link>http://localhost:1313/project/verdenalyrics/</link>
+      <pubDate>Sun, 08 Sep 2024 14:06:45 +0200</pubDate>
+      
+      <guid>http://localhost:1313/project/verdenalyrics/</guid>
+      <description>&lt;p&gt;Nato inizialmente come possibile tesi per l’esame del corso post diploma svolto all’AFP di Cuneo. Un app Android che permette di leggere, tramite lettura dei file JSON, i testi della rock band italiana Verdena.&lt;/p&gt;
+&lt;p&gt;📍Maggiori informazioni &lt;a href=&#34;https://github.com/piacerematthew/verdenaLyrics&#34;&gt;qui&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sito web: FaiDaTe By Lorè</title>
+      <link>http://localhost:1313/project/faidatebylore/</link>
+      <pubDate>Sun, 08 Sep 2024 14:06:33 +0200</pubDate>
+      
+      <guid>http://localhost:1313/project/faidatebylore/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/projects/faidatebylore.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Realizzazione del sito per la pagina instagram &lt;a href=&#34;https://www.instagram.com/faidatebylore/&#34;&gt;FaiDaTe By Lorè&lt;/a&gt;. Sito realizzato utilizzando il CMS Wordpress con l’aggiunta del plugin Elementor e hostato tramite Altervista.&lt;/p&gt;
+&lt;p&gt;📍Maggiori informazioni &lt;a href=&#34;https://faidatebylore.altervista.org/&#34;&gt;qui&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sito web: Officina del Padel</title>
+      <link>http://localhost:1313/project/officinadelpadel/</link>
+      <pubDate>Sun, 08 Sep 2024 14:06:25 +0200</pubDate>
+      
+      <guid>http://localhost:1313/project/officinadelpadel/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/projects/officinadelpadel.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Realizzazione del sito per il club di paddle “Officina del Padel” di Villafalletto. Sito statico realizzato tramite un template Boostrap.&lt;/p&gt;
+&lt;p&gt;📍Maggiori informazioni &lt;a href=&#34;https://officinadelpadel.it/&#34;&gt;qui&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sito web: Ristorante “Il portichetto”</title>
+      <link>http://localhost:1313/project/portichetto/</link>
+      <pubDate>Sun, 08 Sep 2024 14:06:15 +0200</pubDate>
+      
+      <guid>http://localhost:1313/project/portichetto/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/projects/portichetto.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Realizzazione del sito del risorante “Il Portichetto” di Caraglio (CN). Sito statico realizzato tramite un template Boostrap e hostato tramite Github Pages.&lt;/p&gt;
+&lt;p&gt;📍Maggiori informazioni &lt;a href=&#34;https://ristoranteilportichetto.it/&#34;&gt;qui&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mattia Audisio</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/cv/</guid>
+      <description>&lt;p&gt;Operatore di Caf e Patronato con esperienza da Web Developer e Social Media Manager.
+Abilità nel lavorare sia in team che individualmente.
+Buona predisposizione nell&amp;rsquo;apprendimento di nuove tipologie di mansioni.&lt;/p&gt;
+&lt;h2 id=&#34;esperienze-lavorative&#34;&gt;Esperienze lavorative&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Anni&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Posizione lavorativa&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Luogo&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Descrizione&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;febbraio 2022 - in attività&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;Operatore di CAF e patronato&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Servizi Fiscali, Saluzzo (CN)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;Compilazione modello ISEE e dichiarazione dei redditi, accoglienza contribuenti&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;ottobre 2021 - agosto 2023&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;Sviluppatore web&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Da Remoto&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;Sviluppo siti web per imprese locali, in particolare ristoranti&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;aprile 2021 - giugno 2021&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;Commesso · &lt;em&gt;Stage&lt;/em&gt;&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Dinamica S.N.C., Villanova Mondovì (CN)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;Assistenza clienti mirata alla risoluzione di problematiche o all&amp;rsquo;efficentamento di computer, tablet, smartphone, stampanti e dispositivi hardware e software&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;luglio 2019&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;Magazziniere · &lt;em&gt;Stage&lt;/em&gt;&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Graph Art Tipografia, Manta (CN)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;Preparazione imballaggi, preparazione ordini clienti, spostamento merci&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;giugno 2019&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;Sviluppatore web · &lt;em&gt;Stage&lt;/em&gt;&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Publidok S.R.L., Busca (CN)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;Realizzazione di template per siti del mercato immobiliare&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;istruzione-e-formazione&#34;&gt;Istruzione e formazione&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Anni&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Scuola&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Tipologia&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Valutazione&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Descrizione&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;dicembre 2020 - luglio 2021&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;Azienda Formazione Professionale di Cuneo, Dronero e Verzuolo&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Corso post-diploma di Tecnico di sviluppo software&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;Valutazione&lt;/strong&gt;: 97/100.&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;Linguaggi studiati: Python, Java.Architettura di un DBMS relazionale con particolare riferimento a SQL Server&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;settembre 2015 - giugno 2020&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;Istituto di Istruzione Superiore &amp;ldquo;Denina Pellico Rivoira&amp;rdquo;&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Informatica e Telecomunicazioni&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;Valutazione&lt;/strong&gt;: 84/100.&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;competenze-linguistiche&#34;&gt;Competenze linguistiche&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Inglese&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
