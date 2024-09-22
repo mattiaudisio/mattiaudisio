@@ -41,15 +41,21 @@ Buona predisposizione nell'apprendimento di nuove tipologie di mansioni.
 
 madrelingua
 
+## Competenze informatiche
+
+- Buona conoscenza dei linguaggi C, Python, Java
+- Creazione e gestione di database SQL tramite i linguaggi DDL e DML
+- Ottima conoscenza e gestione di file XML, JSON e RSS
+- Sviluppo siti web tramite HTML, CSS, Javascript, PHP, SQL, Wordpress (tramite il plugin Elementor), Astro.JS e Hugo
+- Buona padronanza dei principali strumenti di videomaking (Adobe Premiere, DaVinci Resolve, Capcut)
+- Ottima padronanza di Canva
+- Padronanza del pacchetto Office
+- Conoscenza dei Sistemi Operativi Windows e Linux
+- Esperienza da Social Media Manager
+
 ## Aree di competenza
 
 - Esperienza nella compilazione di modelli ISEE
-- Esperienza utilizzo SQL
-- Conoscenza dei linguaggi HTML,CSS,JS e PHP
-- Conoscenza base di Wordpress in particolare con il plugin Elementor
--  Buona padronanza dei principali strumenti di videomaking (Adobe Premiere, DaVinci Resolve)
-- Buona padronanza di Canva
-- Esperienza da social media manager
 - Volontario Croce Rossa nella sede di Manta
 - Attore di commedia presso una compagnia teatrale
-
+- buone capacità comunicative e relazionali
