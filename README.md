@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)]()
 <h1 align="center" style="color: #ffffff;">Hi 👋, I'm Mattia Audisio</h1>
-<h3 align="center" style="color: #ffffff;">A web developer from Italy</h3>
+<h5 align="center" style="color: #ffffff;">Digital Craftsman (Web developer, Video editor)</h5>
 <img align="right" alt="Coding" width="300" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif">
 
 
@@ -18,12 +18,13 @@
 <a href="https://mattiaudisio.github.io/" target="blank"><img align="center" src="https://mattiaudisio.github.io/images/favicon.ico" alt="mattia-audisio" height="50" width="50" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🧰 Languages and Tools:</h3>
 <p align="left"> 
  <img align="left" alt="HTML"  width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
  <img align="left" alt="CSS"  width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
  <img align="left" alt="JavaScript"  width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  <img align="left" alt="MYSQL"  width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+ <img align="left" alt="Java" width="50px"  height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
  <img align="left" alt="PHP"  width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
  <img align="left" alt="Android Studio"  width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
  <img align="left" alt="Github"  width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
