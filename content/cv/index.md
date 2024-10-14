@@ -16,7 +16,7 @@ Buona predisposizione nell'apprendimento di nuove tipologie di mansioni.
 
 | Anni    |      Posizione lavorativa      |      Luogo      |      Descrizione      |
 |----------|:-------------:|:-------------:|:-------------:|
-| febbraio 2022 - in attività |  **Operatore di CAF e patronato** | Servizi Fiscali, Saluzzo (CN) | _Compilazione modello ISEE e dichiarazione dei redditi, accoglienza contribuenti_ |
+| febbraio 2022 - ottobre 2024 |  **Operatore di CAF e patronato** | Servizi Fiscali, Saluzzo (CN) | _Compilazione modello ISEE e dichiarazione dei redditi, accoglienza contribuenti_ |
 | ottobre 2021 - agosto 2023 |    **Sviluppatore web**   |  Da Remoto| _Sviluppo siti web per imprese locali, in particolare ristoranti_ |
 | aprile 2021 - giugno 2021 | **Commesso · _Stage_** |    Dinamica S.N.C., Villanova Mondovì (CN) | _Assistenza clienti mirata alla risoluzione di problematiche o all'efficentamento di computer, tablet, smartphone, stampanti e dispositivi hardware e software_ |
 | luglio 2019 | **Magazziniere · _Stage_** |  Graph Art Tipografia, Manta (CN) | _Preparazione imballaggi, preparazione ordini clienti, spostamento merci_ |
