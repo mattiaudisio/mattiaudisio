@@ -2,75 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Mattia Audisio</title>
-    <link>https://mattiaudisio.github.io/</link>
+    <link>http://localhost:40243/</link>
     <description>Recent content on Mattia Audisio</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.134.3</generator>
     <language>it-it</language>
-    <lastBuildDate>Sun, 08 Sep 2024 14:06:54 +0200</lastBuildDate><atom:link href="https://mattiaudisio.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Sep 2024 14:06:54 +0200</lastBuildDate>
+    <atom:link href="http://localhost:40243/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sito web: Mangiatori di nuvole</title>
-      <link>https://mattiaudisio.github.io/project/mangiatoridinuvole/</link>
+      <link>http://localhost:40243/project/mangiatoridinuvole/</link>
       <pubDate>Sun, 08 Sep 2024 14:06:54 +0200</pubDate>
-      
-      <guid>https://mattiaudisio.github.io/project/mangiatoridinuvole/</guid>
+      <guid>http://localhost:40243/project/mangiatoridinuvole/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/projects/mangiatoridinuvole.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Realizzazione del sito della compagnia teatrale “&lt;a href=&#34;https://www.instagram.com/mangiatori_di_nuvole/&#34;&gt;Mangiatori di Nuvole&lt;/a&gt;” di Caraglio (CN). Sito realizzato utilizzando il CMS Wordpress con l’aggiunta del plugin Elementor e hostato tramite Altervista.&lt;/p&gt;
 &lt;p&gt;📍Maggiori informazioni &lt;a href=&#34;https://mangiatoridinuvole.altervista.org/&#34;&gt;qui&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Verdena Lyrics</title>
-      <link>https://mattiaudisio.github.io/project/verdenalyrics/</link>
+      <link>http://localhost:40243/project/verdenalyrics/</link>
       <pubDate>Sun, 08 Sep 2024 14:06:45 +0200</pubDate>
-      
-      <guid>https://mattiaudisio.github.io/project/verdenalyrics/</guid>
+      <guid>http://localhost:40243/project/verdenalyrics/</guid>
       <description>&lt;p&gt;Nato inizialmente come possibile tesi per l’esame del corso post diploma svolto all’AFP di Cuneo. Un app Android che permette di leggere, tramite lettura dei file JSON, i testi della rock band italiana Verdena.&lt;/p&gt;
 &lt;p&gt;📍Maggiori informazioni &lt;a href=&#34;https://github.com/piacerematthew/verdenaLyrics&#34;&gt;qui&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Sito web: FaiDaTe By Lorè</title>
-      <link>https://mattiaudisio.github.io/project/faidatebylore/</link>
+      <link>http://localhost:40243/project/faidatebylore/</link>
       <pubDate>Sun, 08 Sep 2024 14:06:33 +0200</pubDate>
-      
-      <guid>https://mattiaudisio.github.io/project/faidatebylore/</guid>
+      <guid>http://localhost:40243/project/faidatebylore/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/projects/faidatebylore.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Realizzazione del sito per la pagina instagram &lt;a href=&#34;https://www.instagram.com/faidatebylore/&#34;&gt;FaiDaTe By Lorè&lt;/a&gt;. Sito realizzato utilizzando il CMS Wordpress con l’aggiunta del plugin Elementor e hostato tramite Altervista.&lt;/p&gt;
 &lt;p&gt;📍Maggiori informazioni &lt;a href=&#34;https://faidatebylore.altervista.org/&#34;&gt;qui&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Sito web: Officina del Padel</title>
-      <link>https://mattiaudisio.github.io/project/officinadelpadel/</link>
+      <link>http://localhost:40243/project/officinadelpadel/</link>
       <pubDate>Sun, 08 Sep 2024 14:06:25 +0200</pubDate>
-      
-      <guid>https://mattiaudisio.github.io/project/officinadelpadel/</guid>
+      <guid>http://localhost:40243/project/officinadelpadel/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/projects/officinadelpadel.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Realizzazione del sito per il club di paddle “Officina del Padel” di Villafalletto. Sito statico realizzato tramite un template Boostrap.&lt;/p&gt;
 &lt;p&gt;📍Maggiori informazioni &lt;a href=&#34;https://officinadelpadel.it/&#34;&gt;qui&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Sito web: Ristorante “Il portichetto”</title>
-      <link>https://mattiaudisio.github.io/project/portichetto/</link>
+      <link>http://localhost:40243/project/portichetto/</link>
       <pubDate>Sun, 08 Sep 2024 14:06:15 +0200</pubDate>
-      
-      <guid>https://mattiaudisio.github.io/project/portichetto/</guid>
+      <guid>http://localhost:40243/project/portichetto/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/projects/portichetto.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Realizzazione del sito del risorante “Il Portichetto” di Caraglio (CN). Sito statico realizzato tramite un template Boostrap e hostato tramite Github Pages.&lt;/p&gt;
 &lt;p&gt;📍Maggiori informazioni &lt;a href=&#34;https://ristoranteilportichetto.it/&#34;&gt;qui&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mattia Audisio</title>
-      <link>https://mattiaudisio.github.io/cv/</link>
+      <link>http://localhost:40243/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mattiaudisio.github.io/cv/</guid>
+      <guid>http://localhost:40243/cv/</guid>
       <description>&lt;p&gt;Operatore di Caf e Patronato con esperienza da Web Developer e Social Media Manager.
 Abilità nel lavorare sia in team che individualmente.
 Buona predisposizione nell&amp;rsquo;apprendimento di nuove tipologie di mansioni.&lt;/p&gt;
@@ -148,6 +138,5 @@ Buona predisposizione nell&amp;rsquo;apprendimento di nuove tipologie di mansion
 &lt;h2 id=&#34;competenze-linguistiche&#34;&gt;Competenze linguistiche&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Inglese&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

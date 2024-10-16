@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mattiaudisio.github.io/</loc>
+    <loc>http://localhost:40243/</loc>
     <lastmod>2024-09-08T14:06:54+02:00</lastmod>
   </url><url>
-    <loc>https://mattiaudisio.github.io/project/</loc>
+    <loc>http://localhost:40243/project/</loc>
     <lastmod>2024-09-08T14:06:54+02:00</lastmod>
   </url><url>
-    <loc>https://mattiaudisio.github.io/project/mangiatoridinuvole/</loc>
+    <loc>http://localhost:40243/project/mangiatoridinuvole/</loc>
     <lastmod>2024-09-08T14:06:54+02:00</lastmod>
   </url><url>
-    <loc>https://mattiaudisio.github.io/project/verdenalyrics/</loc>
+    <loc>http://localhost:40243/project/verdenalyrics/</loc>
     <lastmod>2024-09-08T14:06:45+02:00</lastmod>
   </url><url>
-    <loc>https://mattiaudisio.github.io/project/faidatebylore/</loc>
+    <loc>http://localhost:40243/project/faidatebylore/</loc>
     <lastmod>2024-09-08T14:06:33+02:00</lastmod>
   </url><url>
-    <loc>https://mattiaudisio.github.io/project/officinadelpadel/</loc>
+    <loc>http://localhost:40243/project/officinadelpadel/</loc>
     <lastmod>2024-09-08T14:06:25+02:00</lastmod>
   </url><url>
-    <loc>https://mattiaudisio.github.io/project/portichetto/</loc>
+    <loc>http://localhost:40243/project/portichetto/</loc>
     <lastmod>2024-09-08T14:06:15+02:00</lastmod>
   </url><url>
-    <loc>https://mattiaudisio.github.io/categories/</loc>
+    <loc>http://localhost:40243/categories/</loc>
   </url><url>
-    <loc>https://mattiaudisio.github.io/cv/</loc>
+    <loc>http://localhost:40243/cv/</loc>
   </url><url>
-    <loc>https://mattiaudisio.github.io/tags/</loc>
+    <loc>http://localhost:40243/tags/</loc>
   </url>
 </urlset>

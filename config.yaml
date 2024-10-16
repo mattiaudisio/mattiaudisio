@@ -15,7 +15,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Mattia Audisio
+  title: Mattia Audsio
   description: "Mattia Audisio, web developer in Cuneo"
   keywords: [Blog, Portfolio, PaperMod]
   author: Mattia Audisio
