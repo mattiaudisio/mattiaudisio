@@ -267,7 +267,7 @@ Inizalmente è stata fatta per comodità mia ma ho deciso di renderla pubblica a
 &lt;p&gt;Prima di partire col progetto, bisogna abilitare i permessi di scrittura del file host, per questo, andare nel percorso &lt;em&gt;“C:\Windows\System32\drivers”&lt;/em&gt; e cambiare i permessi al file hosts.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>About</title>
+      <title></title>
       <link>https://mattiaudisio.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://mattiaudisio.github.io/about/</guid>
@@ -277,8 +277,9 @@ Inizalmente è stata fatta per comodità mia ma ho deciso di renderla pubblica a
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;Salve popolo di internet, sono Mattia, una persona appassionata di tecnologia e culture underground con un diploma da perito informatico alle spalle. Faccio parte della generazione Z.
-Di solito riassumo la mia vita in &amp;ldquo;Faccio cose al computer&amp;rdquo;, dove cose possono essere: siti web, video, grafiche, post, podcast. Faccio teatro da più di 10 anni, utilizzo Linux Mint come OS principale e nel tempo libero mi trovi o in montagna o in bici o in palestra.
-Questo è il mio &lt;a href=&#34;https://tinyurl.com/rxdd6je2&#34;&gt;giardino digitale&lt;/a&gt;, un sito personale dove mi occupo di progetti, stranezze, scoperte interessanti e tutte quelle follie fatte assecondando la mia FOMO e la &lt;a href=&#34;https://mattiaudisio.github.io/angolodeiconsigli&#34;&gt;mia dipendenza da dopamina&lt;/a&gt;.&lt;/p&gt;</description>
+Di solito riassumo la mia vita in &amp;ldquo;Faccio cose al computer&amp;rdquo;. Faccio teatro da più di 10 anni, utilizzo Linux Mint come OS principale e nel tempo libero mi trovi o in montagna o in bici o in palestra.
+Questo è il mio &lt;a href=&#34;https://tinyurl.com/rxdd6je2&#34;&gt;giardino digitale&lt;/a&gt;, un sito personale dove mi occupo di progetti, stranezze, scoperte interessanti e tutte quelle follie fatte assecondando la mia FOMO e la &lt;a href=&#34;https://mattiaudisio.github.io/angolodeiconsigli&#34;&gt;mia dipendenza da dopamina&lt;/a&gt;.
+Sito costruito utilizzando Hugo, &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;Papermod&lt;/a&gt;, Github e Vercel e per realizzarlo ho grattato/preso spunto da &lt;a href=&#34;https://www.fromjason.xyz/&#34;&gt;From Jason&lt;/a&gt;, &lt;a href=&#34;https://www.andreacorinti.com/&#34;&gt;Andrea Corinti&lt;/a&gt;, &lt;a href=&#34;https://lamacchinadesiderante.org/&#34;&gt;La Macchina desiderante&lt;/a&gt; e &lt;a href=&#34;https://lukesmith.xyz/&#34;&gt;Luke Smith&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mattia Audisio</title>
