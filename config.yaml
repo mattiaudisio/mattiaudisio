@@ -50,7 +50,7 @@ params:
     safari_pinned_tab: "images/favicon.ico"
 
   label:
-    text: "👨‍💻 Mattia Audisio"
+    text: '👨‍💻 Mattia Audisio'
     # icon: "images/coding.png"
     iconHeight: 35
 
@@ -81,7 +81,10 @@ params:
       url: "https://github.com/mattiaudisio"
     - name: email
       url: "mailto:mattia.audisio.01@proton.me"
-
+    - name: mastodon
+      url: "https://livellosegreto.it/@piacerematthew" 
+    - name: youtube
+      url: "https://www.youtube.com/@unAltroNPCsuYouTube"
   analytics:
     google:
       SiteVerificationTag: "XYZabc"
@@ -118,10 +121,18 @@ menu:
       name: Progetti
       url: /project/
       weight: 2
+    - identifier: About
+      name: Chi sono?
+      url: /about/
+      weight: 3
+    - identifier: Articoli
+      name: articoli
+      url: /article/
+      weight: 4
     - identifier: Github
       name: Github
       url: https://github.com/mattiaudisio/
-      weight: 3  
+      weight: 5  
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
