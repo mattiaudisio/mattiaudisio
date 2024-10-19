@@ -6,17 +6,8 @@
     <description>Recent content on Mattia Audisio</description>
     <generator>Hugo -- 0.134.3</generator>
     <language>it-it</language>
-    <lastBuildDate>Wed, 16 Oct 2024 22:05:24 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 21:01:57 +0200</lastBuildDate>
     <atom:link href="https://mattiaudisio.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Angolodeiconsigli</title>
-      <link>https://mattiaudisio.github.io/angolodeiconsigli/</link>
-      <pubDate>Wed, 16 Oct 2024 22:05:24 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/angolodeiconsigli/</guid>
-      <description>&lt;p&gt;Ogni tot sono solito prendermi un pò di tempo per fare pulizia sul mio profilo Mastodon, togliendo sia cose che non servono più (tipo post di aiuto perchè non trovo delle cose) che Boost che non servono più (tipo eventi fatti mesi fa).&lt;/p&gt;
-&lt;p&gt;Però, ogni tanto, capita di dover togliere alcuni toot che avevano all&amp;rsquo;interno dei link che, per qualcuno, possono essere interessanti.&lt;/p&gt;
-&lt;p&gt;Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e tutto quello che c&amp;rsquo;era sul mio profilo e che può interessare a qualcuno.&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Come ho customizzato Linux Mint Cinnamon</title>
       <link>https://mattiaudisio.github.io/article/customlinuxmint/</link>
@@ -25,7 +16,7 @@
       <description>&lt;p&gt;Oggi, dopo 4 mesi che ho installato Linux Mint sul mio portatile principale, ho trovato il tempo per mettermi seduto e personalizzarlo a dovere. Questo che state leggendo è una guida veloce di quello che ho fatto, in modo che se vi piace potete configurarlo anche voi (e anche per darmi una mano se in futuro cambio di nuovo distro perdendo le modifiche fatte&amp;hellip;)&lt;/p&gt;
 &lt;h2 id=&#34;cosa-serve&#34;&gt;Cosa serve?&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Icone&lt;/strong&gt;*: &lt;a href=&#34;https://www.gnome-look.org/p/1279924/&#34;&gt;Tela&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Icone&lt;/strong&gt;: &lt;a href=&#34;https://www.gnome-look.org/p/1279924/&#34;&gt;Tela&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Tema per Plank Dock&lt;/strong&gt;: &lt;a href=&#34;https://github.com/vinceliuice/WhiteSur-gtk-theme&#34;&gt;Gtk Theme - Whitesur Gtk Theme Light/Dark&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Tema&lt;/strong&gt;: &lt;a href=&#34;https://github.com/vinceliuice/Orchis-theme&#34;&gt;Orchis Theme&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -280,6 +271,15 @@ Inizalmente è stata fatta per comodità mia ma ho deciso di renderla pubblica a
 Di solito riassumo la mia vita in &amp;ldquo;Faccio cose al computer&amp;rdquo;. Faccio teatro da più di 10 anni, utilizzo Linux Mint come OS principale e nel tempo libero mi trovi o in montagna o in bici o in palestra.
 Questo è il mio &lt;a href=&#34;https://tinyurl.com/rxdd6je2&#34;&gt;giardino digitale&lt;/a&gt;, un sito personale dove mi occupo di progetti, stranezze, scoperte interessanti e tutte quelle follie fatte assecondando la mia FOMO e la &lt;a href=&#34;https://mattiaudisio.github.io/angolodeiconsigli&#34;&gt;mia dipendenza da dopamina&lt;/a&gt;.
 Sito costruito utilizzando Hugo, &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;Papermod&lt;/a&gt;, Github e Vercel e per realizzarlo ho grattato/preso spunto da &lt;a href=&#34;https://www.fromjason.xyz/&#34;&gt;From Jason&lt;/a&gt;, &lt;a href=&#34;https://www.andreacorinti.com/&#34;&gt;Andrea Corinti&lt;/a&gt;, &lt;a href=&#34;https://lamacchinadesiderante.org/&#34;&gt;La Macchina desiderante&lt;/a&gt; e &lt;a href=&#34;https://lukesmith.xyz/&#34;&gt;Luke Smith&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>L&#39;angolo dei consigli</title>
+      <link>https://mattiaudisio.github.io/angolodeiconsigli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mattiaudisio.github.io/angolodeiconsigli/</guid>
+      <description>&lt;p&gt;Ogni tot sono solito prendermi un pò di tempo per fare pulizia sul mio profilo Mastodon, togliendo sia cose che non servono più (tipo post di aiuto perchè non trovo delle cose) che Boost che non servono più (tipo eventi fatti mesi fa).&lt;/p&gt;
+&lt;p&gt;Però, ogni tanto, capita di dover togliere alcuni toot che avevano all&amp;rsquo;interno dei link che, per qualcuno, possono essere interessanti.&lt;/p&gt;
+&lt;p&gt;Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e tutto quello che c&amp;rsquo;era sul mio profilo e che può interessare a qualcuno.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mattia Audisio</title>

@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mattiaudisio.github.io/angolodeiconsigli/</loc>
-    <lastmod>2024-10-16T22:05:24+02:00</lastmod>
-  </url><url>
-    <loc>https://mattiaudisio.github.io/</loc>
-    <lastmod>2024-10-16T22:05:24+02:00</lastmod>
-  </url><url>
     <loc>https://mattiaudisio.github.io/tags/-echo-404/</loc>
     <lastmod>2024-10-07T21:01:57+02:00</lastmod>
   </url><url>
@@ -15,6 +9,9 @@
     <lastmod>2024-10-07T21:01:57+02:00</lastmod>
   </url><url>
     <loc>https://mattiaudisio.github.io/article/customlinuxmint/</loc>
+    <lastmod>2024-10-07T21:01:57+02:00</lastmod>
+  </url><url>
+    <loc>https://mattiaudisio.github.io/</loc>
     <lastmod>2024-10-07T21:01:57+02:00</lastmod>
   </url><url>
     <loc>https://mattiaudisio.github.io/tags/</loc>
@@ -104,6 +101,8 @@
     <loc>https://mattiaudisio.github.io/about/</loc>
   </url><url>
     <loc>https://mattiaudisio.github.io/categories/</loc>
+  </url><url>
+    <loc>https://mattiaudisio.github.io/angolodeiconsigli/</loc>
   </url><url>
     <loc>https://mattiaudisio.github.io/cv/</loc>
   </url>

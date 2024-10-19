@@ -1,6 +1,5 @@
 ---
-title: "Angolodeiconsigli"
-date: 2024-10-16T22:05:24+02:00
+title: "L'angolo dei consigli"
 ---
 
 Ogni tot sono solito prendermi un pò di tempo per fare pulizia sul mio profilo Mastodon, togliendo sia cose che non servono più (tipo post di aiuto perchè non trovo delle cose) che Boost che non servono più (tipo eventi fatti mesi fa).

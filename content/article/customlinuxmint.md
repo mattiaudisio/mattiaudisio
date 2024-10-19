@@ -6,7 +6,7 @@ tags: ['👨‍💻 Echo 404']
 
 Oggi, dopo 4 mesi che ho installato Linux Mint sul mio portatile principale, ho trovato il tempo per mettermi seduto e personalizzarlo a dovere. Questo che state leggendo è una guida veloce di quello che ho fatto, in modo che se vi piace potete configurarlo anche voi (e anche per darmi una mano se in futuro cambio di nuovo distro perdendo le modifiche fatte...) 
 ## Cosa serve?
-- **Icone***: [Tela](https://www.gnome-look.org/p/1279924/)
+- **Icone**: [Tela](https://www.gnome-look.org/p/1279924/)
 - **Tema per Plank Dock**: [Gtk Theme - Whitesur Gtk Theme Light/Dark](https://github.com/vinceliuice/WhiteSur-gtk-theme)
 - **Tema**: [Orchis Theme](https://github.com/vinceliuice/Orchis-theme)
 
