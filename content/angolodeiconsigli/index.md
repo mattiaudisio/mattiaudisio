@@ -66,3 +66,4 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [PrivaSì](https://privasi.eticadigitale.org/)
 - [Cittadino medio](https://cittadinomedio.it/)
 - [Il manifesto GNU](https://www.gnu.org/gnu/manifesto.html)
+- [bluoltremauri](https://bluoltremauri.overthegame.it/)
