@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)]()
 <h1 align="center" style="color: #ffffff;">Hi 👋, I'm Mattia Audisio</h1>
 <h5 align="center" style="color: #ffffff;">Digital Craftsman (Web developer, Video editor)</h5>
-<img align="right" alt="Coding" width="300" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif">
+<img align="right" alt="Coding" width="300" src="icon.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattiaudisio&label=Profile%20views&color=0e75b6&style=flat" alt="mattiaudisio" /> </p>
