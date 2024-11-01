@@ -85,6 +85,8 @@ params:
       url: "https://livellosegreto.it/@piacerematthew" 
     - name: youtube
       url: "https://www.youtube.com/@unAltroNPCsuYouTube"
+    - name: rss
+      url: "https://mattiaudisio.github.io/article/index.xml"
   analytics:
     google:
       SiteVerificationTag: "XYZabc"
