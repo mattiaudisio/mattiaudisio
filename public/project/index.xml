@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on Mattia Audisio</title>
-    <link>http://localhost:1313/project/</link>
+    <link>https://mattiaudisio.github.io/project/</link>
     <description>Recent content in Projects on Mattia Audisio</description>
     <generator>Hugo -- 0.134.3</generator>
     <language>it-it</language>
     <lastBuildDate>Sun, 08 Sep 2024 14:06:54 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattiaudisio.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sito web: Mangiatori di nuvole</title>
-      <link>http://localhost:1313/project/mangiatoridinuvole/</link>
+      <link>https://mattiaudisio.github.io/project/mangiatoridinuvole/</link>
       <pubDate>Sun, 08 Sep 2024 14:06:54 +0200</pubDate>
-      <guid>http://localhost:1313/project/mangiatoridinuvole/</guid>
+      <guid>https://mattiaudisio.github.io/project/mangiatoridinuvole/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/projects/mangiatoridinuvole.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Realizzazione del sito della compagnia teatrale “&lt;a href=&#34;https://www.instagram.com/mangiatori_di_nuvole/&#34;&gt;Mangiatori di Nuvole&lt;/a&gt;” di Caraglio (CN). Sito realizzato utilizzando il CMS Wordpress con l’aggiunta del plugin Elementor e hostato tramite Altervista.&lt;/p&gt;
@@ -20,17 +20,17 @@
     </item>
     <item>
       <title>Verdena Lyrics</title>
-      <link>http://localhost:1313/project/verdenalyrics/</link>
+      <link>https://mattiaudisio.github.io/project/verdenalyrics/</link>
       <pubDate>Sun, 08 Sep 2024 14:06:45 +0200</pubDate>
-      <guid>http://localhost:1313/project/verdenalyrics/</guid>
+      <guid>https://mattiaudisio.github.io/project/verdenalyrics/</guid>
       <description>&lt;p&gt;Nato inizialmente come possibile tesi per l’esame del corso post diploma svolto all’AFP di Cuneo. Un app Android che permette di leggere, tramite lettura dei file JSON, i testi della rock band italiana Verdena.&lt;/p&gt;
 &lt;p&gt;📍Maggiori informazioni &lt;a href=&#34;https://github.com/piacerematthew/verdenaLyrics&#34;&gt;qui&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sito web: FaiDaTe By Lorè</title>
-      <link>http://localhost:1313/project/faidatebylore/</link>
+      <link>https://mattiaudisio.github.io/project/faidatebylore/</link>
       <pubDate>Sun, 08 Sep 2024 14:06:33 +0200</pubDate>
-      <guid>http://localhost:1313/project/faidatebylore/</guid>
+      <guid>https://mattiaudisio.github.io/project/faidatebylore/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/projects/faidatebylore.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Realizzazione del sito per la pagina instagram &lt;a href=&#34;https://www.instagram.com/faidatebylore/&#34;&gt;FaiDaTe By Lorè&lt;/a&gt;. Sito realizzato utilizzando il CMS Wordpress con l’aggiunta del plugin Elementor e hostato tramite Altervista.&lt;/p&gt;
@@ -38,9 +38,9 @@
     </item>
     <item>
       <title>Sito web: Officina del Padel</title>
-      <link>http://localhost:1313/project/officinadelpadel/</link>
+      <link>https://mattiaudisio.github.io/project/officinadelpadel/</link>
       <pubDate>Sun, 08 Sep 2024 14:06:25 +0200</pubDate>
-      <guid>http://localhost:1313/project/officinadelpadel/</guid>
+      <guid>https://mattiaudisio.github.io/project/officinadelpadel/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/projects/officinadelpadel.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Realizzazione del sito per il club di paddle “Officina del Padel” di Villafalletto. Sito statico realizzato tramite un template Boostrap.&lt;/p&gt;
@@ -48,9 +48,9 @@
     </item>
     <item>
       <title>Sito web: Ristorante “Il portichetto”</title>
-      <link>http://localhost:1313/project/portichetto/</link>
+      <link>https://mattiaudisio.github.io/project/portichetto/</link>
       <pubDate>Sun, 08 Sep 2024 14:06:15 +0200</pubDate>
-      <guid>http://localhost:1313/project/portichetto/</guid>
+      <guid>https://mattiaudisio.github.io/project/portichetto/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/projects/portichetto.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Realizzazione del sito del risorante “Il Portichetto” di Caraglio (CN). Sito statico realizzato tramite un template Boostrap e hostato tramite Github Pages.&lt;/p&gt;
