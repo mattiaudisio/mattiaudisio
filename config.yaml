@@ -86,7 +86,7 @@ params:
     - name: youtube
       url: "https://www.youtube.com/@unAltroNPCsuYouTube"
     - name: rss
-      url: "https://mattiaudisio.github.io/article/index.xml"
+      url: "https://mattiaudisio.github.io/fritto-misto/index.xml"
   analytics:
     google:
       SiteVerificationTag: "XYZabc"
@@ -127,9 +127,9 @@ menu:
       name: Chi sono?
       url: /about/
       weight: 3
-    - identifier: Articoli
-      name: articoli
-      url: /article/
+    - identifier: Fritto misto
+      name: Fritto misto
+      url: /fritto-misto/
       weight: 4
     - identifier: Github
       name: Github
