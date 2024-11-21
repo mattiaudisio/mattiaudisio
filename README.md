@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattiaudisio&label=Profile%20views&color=0e75b6&style=flat" alt="mattiaudisio" /> </p>
 
-- 🔭 I’m currently working on **Wordpress, Hugo, PHP, Boostrap**
+- 🔭 I’m currently working on **Wordpress, Hugo, PHP, TailwindCSS, Laravel**
 
-- 🌱 I’m currently learning **Wordpress** and **Hugo**
+- 🌱 I’m currently learning **Laravel** and **Filament**
 
 - 💬 Ask me about **Music**, **Film**. **Photography**
 
