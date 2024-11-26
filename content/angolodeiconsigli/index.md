@@ -52,6 +52,7 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [Perché l'“Open Source” manca l'obiettivo del Software Libero](https://www.gnu.org/philosophy/open-source-misses-the-point.it.html)
 - [Il software proprietario spesso è malware](https://www.gnu.org/proprietary/proprietary.html)
 - [Una breve guida al gaming (e non solo) su Linux](https://log.livellosegreto.it/gabratta/una-breve-guida-al-gaming-e-non-solo-su-linux)
+- [Discussioni sul Fediverso](https://keinpfusch.net/discussioni-sul-fediverso)
 
 ## 🔗 Siti web
 
