@@ -131,10 +131,14 @@ menu:
       name: Fritto misto
       url: /fritto-misto/
       weight: 4
+    - identifier: My photography portfolio
+      name: My photography portfolio
+      url: https://mattiaudisio.github.io/photo/
+      weight: 5
     - identifier: Github
       name: Github
       url: https://github.com/mattiaudisio/
-      weight: 5  
+      weight: 6  
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:

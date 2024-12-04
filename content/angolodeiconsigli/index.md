@@ -53,6 +53,7 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [Il software proprietario spesso è malware](https://www.gnu.org/proprietary/proprietary.html)
 - [Una breve guida al gaming (e non solo) su Linux](https://log.livellosegreto.it/gabratta/una-breve-guida-al-gaming-e-non-solo-su-linux)
 - [Discussioni sul Fediverso](https://keinpfusch.net/discussioni-sul-fediverso)
+- [Making A Simple Static Website](https://pages.virtualgoodsdealer.com/articles/tutorial)
 
 ## 🔗 Siti web
 
