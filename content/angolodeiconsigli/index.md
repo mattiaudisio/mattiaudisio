@@ -26,6 +26,7 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [Web 3.0: vi spiego tecnicamente la presa in giro](https://invidious.privacyredirect.com/watch?v=ZmMt_qB4FpE&list=PL2OAfPnNYMnOAyBhX54HyrirY2Q5kQfPx&index=16)
 - [Come essere sicuri e anonimi online e perché con la VPN... butti i soldi!](https://invidious.privacyredirect.com/watch?v=nebJdwmYP6E&list=PL2OAfPnNYMnOAyBhX54HyrirY2Q5kQfPx&index=17)
 - [Hai paura dei computer? (documentario sull'intelligenza artificiale)](https://invidious.privacyredirect.com/watch?v=3glV_suZna0&list=PL2OAfPnNYMnOAyBhX54HyrirY2Q5kQfPx&index=8)
+- [10 modi per difendersi dalle strategie di controllo](https://youtu.be/9QxcaT6PQN8?feature=shared)
 
 ## 🎶 Musica
 
