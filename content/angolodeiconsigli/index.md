@@ -27,7 +27,7 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [Come essere sicuri e anonimi online e perché con la VPN... butti i soldi!](https://invidious.privacyredirect.com/watch?v=nebJdwmYP6E&list=PL2OAfPnNYMnOAyBhX54HyrirY2Q5kQfPx&index=17)
 - [Hai paura dei computer? (documentario sull'intelligenza artificiale)](https://invidious.privacyredirect.com/watch?v=3glV_suZna0&list=PL2OAfPnNYMnOAyBhX54HyrirY2Q5kQfPx&index=8)
 - [10 modi per difendersi dalle strategie di controllo](https://youtu.be/9QxcaT6PQN8?feature=shared)
-
+- [s x rr x land](https://youtu.be/M3fVfgqpHNs?feature=shared)
 ## 🎶 Musica
 
 - [La macchina desiderante – Felici come un computer](https://audio.copyriot.xyz/library/albums/2)
