@@ -366,4 +366,4 @@ Nella riga precedente, il codice EJS sta rendendo il valore di `variant`Se è de
 
 - [How To Use EJS to Template Your Node Application](https://www.digitalocean.com/community/tutorials/how-to-use-ejs-to-template-your-node-application)
 - [Costruire un sito web senza diventare un “soydev”](https://worldofmatthew.com/post/soydev/)
-- [Che cosa è Soydev? E perché lo odio](https://storopoli.io/2023-11-10-2023-11-13-soydev/)
+- [Che cosa è Soydev? E perché lo odio](https://storopoli.com/2023-11-10-2023-11-13-soydev/)
