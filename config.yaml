@@ -64,8 +64,8 @@ params:
     imageHeight: 220
     imageTitle: "Mattia Audisio"
     buttons:
-      - name: CV
-        url: cv
+      - name: Fritto misto
+        url: fritto-misto
       - name: Progetti
         url: project
 
@@ -115,30 +115,18 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: CV
-      name: CV
-      url: /cv/
-      weight: 1
     - identifier: Progetti
       name: Progetti
       url: /project/
-      weight: 2
-    - identifier: About
-      name: Chi sono?
-      url: /about/
-      weight: 3
+      weight: 1
     - identifier: Fritto misto
       name: Fritto misto
       url: /fritto-misto/
-      weight: 4
-    - identifier: My photography portfolio
-      name: My photography portfolio
+      weight: 2
+    - identifier: photo
+      name: photo
       url: https://mattiaudisio.github.io/photo/
-      weight: 5
-    - identifier: Github
-      name: Github
-      url: https://github.com/mattiaudisio/
-      weight: 6  
+      weight: 3 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
