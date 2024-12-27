@@ -10,33 +10,33 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 
 ## 🎬 Video
 
-- [Non fumano, non bevono, non si drogano: chi sono gli straight edge](https://yt.artemislena.eu/watch?v=ftL-FRHS9IE)
-- [Il più Grande Hacker di Videogiochi di Tutti i Tempi](https://invidious.nerdvpn.de/watch?v=Nt0d6ztCBmM)
-- [30 anni di rave in Italia: con Pablito El Drito](https://invidious.nerdvpn.de/watch?v=yzRvvQgEOHM)
-- [IL TUO OCCHIO È TOSSICO: QUELLO CHE NON TI DICONO SULLA TUA SALUTE!](https://invidious.perennialte.ch/watch?v=IlmrpJrbNsk)
-- [10 libri da leggere una volta nella vita](https://invidious.perennialte.ch/watch?v=ZpWCnKeDHO8) 
-- [Ribellati all'Algoritmo che UCCIDE la MUSICA: Riscopri il Piacere dell'Ascolto!](https://inv.nadeko.net/watch?v=dE6-F4Sgih0)
-- [L'UNCANNY VALLEY nell'AUDIO esiste? Perchè il Lofi funziona così tanto?](https://invidious.jing.rocks/watch?v=NskhWla2P4U)
-- [Il musicista nel 2024 è povero per SCELTA](https://inv.nadeko.net/watch?v=qGM3RcZVx1o)
-- [dietro le quinte - Calcutta Relax (da IG stories)](https://inv.nadeko.net/watch?v=DJSi8w804ml)
-- [Abbandonare Apple... 6 anni dopo. Ho sbagliato?](https://inv.nadeko.net/search?q=reaperiani+apple)
-- [trucco anti-dipendenza da "social zombie scrolling"](https://inv.nadeko.net/watch?v=kSj9qZA4jGg)
-- [P🔞RN0 la DIPENDENZA che ti sta DISTRUGGENDO](https://inv.nadeko.net/watch?v=yxv7VWLkB9g)
-- [Guida di sopravvivenza (digitale) alla GUERRA](https://invidious.privacyredirect.com/watch?v=J-2dQD3Xs6g&list=PL2OAfPnNYMnOAyBhX54HyrirY2Q5kQfPx&index=15)
-- [Web 3.0: vi spiego tecnicamente la presa in giro](https://invidious.privacyredirect.com/watch?v=ZmMt_qB4FpE&list=PL2OAfPnNYMnOAyBhX54HyrirY2Q5kQfPx&index=16)
-- [Come essere sicuri e anonimi online e perché con la VPN... butti i soldi!](https://invidious.privacyredirect.com/watch?v=nebJdwmYP6E&list=PL2OAfPnNYMnOAyBhX54HyrirY2Q5kQfPx&index=17)
-- [Hai paura dei computer? (documentario sull'intelligenza artificiale)](https://invidious.privacyredirect.com/watch?v=3glV_suZna0&list=PL2OAfPnNYMnOAyBhX54HyrirY2Q5kQfPx&index=8)
+- [Non fumano, non bevono, non si drogano: chi sono gli straight edge](https://youtu.be/ftL-FRHS9IE?feature=shared)
+- [Il più Grande Hacker di Videogiochi di Tutti i Tempi](https://youtu.be/Nt0d6ztCBmM?feature=shared)
+- [30 anni di rave in Italia: con Pablito El Drito](https://youtu.be/yzRvvQgEOHM?feature=shared)
+- [IL TUO OCCHIO È TOSSICO: QUELLO CHE NON TI DICONO SULLA TUA SALUTE!](https://youtu.be/IlmrpJrbNsk?feature=shared)
+- [10 libri da leggere una volta nella vita](https://youtu.be/ZpWCnKeDHO8?feature=shared) 
+- [Ribellati all'Algoritmo che UCCIDE la MUSICA: Riscopri il Piacere dell'Ascolto!](https://youtu.be/dE6-F4Sgih0?feature=shared)
+- [L'UNCANNY VALLEY nell'AUDIO esiste? Perchè il Lofi funziona così tanto?](https://youtu.be/NskhWla2P4U?feature=shared)
+- [Il musicista nel 2024 è povero per SCELTA](https://youtu.be/qGM3RcZVx1o?feature=shared)
+- [dietro le quinte - Calcutta Relax (da IG stories)](https://youtu.be/DJSi8w804mI?feature=shared)
+- [Abbandonare Apple... 6 anni dopo. Ho sbagliato?](https://youtu.be/n0eWUfPhf0Q?feature=shared)
+- [trucco anti-dipendenza da "social zombie scrolling"](https://youtu.be/kSj9qZA4jGg?feature=shared)
+- [P🔞RN0 la DIPENDENZA che ti sta DISTRUGGENDO](https://youtu.be/yxv7VWLkB9g?feature=shared)
+- [Guida di sopravvivenza (digitale) alla GUERRA](https://youtu.be/J-2dQD3Xs6g?feature=shared)
+- [Web 3.0: vi spiego tecnicamente la presa in giro](https://youtu.be/ZmMt_qB4FpE?feature=shared)
+- [Come essere sicuri e anonimi online e perché con la VPN... butti i soldi!](https://youtu.be/nebJdwmYP6E?feature=shared)
+- [Hai paura dei computer? (documentario sull'intelligenza artificiale)](https://youtu.be/3glV_suZna0?feature=shared)
 - [10 modi per difendersi dalle strategie di controllo](https://youtu.be/9QxcaT6PQN8?feature=shared)
 - [s x rr x land](https://youtu.be/M3fVfgqpHNs?feature=shared)
 ## 🎶 Musica
 
-- [La macchina desiderante – Felici come un computer](https://audio.copyriot.xyz/library/albums/2)
-- [GEMITAIZ – Ballon D’Or ft. Nayt](https://invidious.lunar.icu/watch?v=mO2vFlCvlY8)
+- [La macchina desiderante – Felici come un computer](https://www.lamacchinadesiderante.org/felici-come-un-computer/)
+- [GEMITAIZ – Ballon D’Or ft. Nayt](https://youtu.be/mO2vFlCvlY8?feature=shared)
 - [I CANI BAUSTELLE](https://icanibaustelle.bandcamp.com/album/i-cani-baustelle)
 - [The Dungeon Synth Archives](https://www.youtube.com/@TheDungeonSynthArchives/videos) (scoperto grazie a [Gabratta](https://livellosegreto.it/@Gabratta))
 - [Evigt fr mmande evigtnfj rran by ornatorpet](https://ornatorpet.bandcamp.com/album/evigt-fr-mmande-evigt-fj-rran) (scoperto grazie a [Gabratta](https://livellosegreto.it/@Gabratta))
-- [ arottenbit - _SPECIMEN_SETTE___(PROBE#1012010)](https://invidious.nerdvpn.de/watch?v=f2V0CaIdOYY&feature=shared)
-- [Tre allegri ragazzi morti - La sola concreta realtà](https://invidious.nerdvpn.de/watch?v=MmYqRPDFALk&feature=shared)
+- [Arottenbit - _SPECIMEN_SETTE___(PROBE#1012010)](https://youtu.be/f2V0CaIdOYY?feature=shared)
+- [Tre allegri ragazzi morti - La sola concreta realtà](https://youtu.be/MmYqRPDFALk?feature=shared)
 
 ## 📰 Articoli
 
@@ -59,7 +59,6 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 ## 🔗 Siti web
 
 - [Il blog di Xenowiki](https://www.xenowiki.org/it/Blog.html)
-- [D Zine](https://dzine.deditore.com/it/)
 - [La guida per Mastodon (l'importante è non essere iscritto Mastodon Uno e non leggere gli articoli relativi solo a M1)](https://noblogo.org/uno-academy/uno-academy-index)
 - [Mappa dei suicidi nelle carceri italiane](https://trovawiki.altervista.org/suicidi_carcere.php)
 - [Frontends](https://www.ggtyler.dev/other/frontends)

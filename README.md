@@ -2,7 +2,6 @@
 
 ## To-do list
 
-- [ ] Sistema link nella pagina angolodeiconsigli
-- [ ] modifica title
+- [X] Sistema link nella pagina angolodeiconsigli
 - [ ] Crea articolo Wrapped 2024
-- [ ] cambia immagine
+- [X] cambia immagine
