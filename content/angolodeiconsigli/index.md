@@ -28,6 +28,7 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [Hai paura dei computer? (documentario sull'intelligenza artificiale)](https://youtu.be/3glV_suZna0?feature=shared)
 - [10 modi per difendersi dalle strategie di controllo](https://youtu.be/9QxcaT6PQN8?feature=shared)
 - [s x rr x land](https://youtu.be/M3fVfgqpHNs?feature=shared)
+
 ## 🎶 Musica
 
 - [La macchina desiderante – Felici come un computer](https://www.lamacchinadesiderante.org/felici-come-un-computer/)
