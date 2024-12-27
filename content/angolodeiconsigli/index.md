@@ -56,6 +56,8 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [Una breve guida al gaming (e non solo) su Linux](https://log.livellosegreto.it/gabratta/una-breve-guida-al-gaming-e-non-solo-su-linux)
 - [Discussioni sul Fediverso](https://keinpfusch.net/discussioni-sul-fediverso)
 - [Making A Simple Static Website](https://pages.virtualgoodsdealer.com/articles/tutorial)
+- [Recensione](https://livellosegreto.it/@77nn@goto.77nn.it/113718930885823240) su [FOSS_Browser](https://codeberg.org/Gaukler_Faun/FOSS_Browser)
+- [Turn Android Phone to Batteryless Home Server](https://crackoverflow.com/docs/system_administration/containerization/turn_android_phone_to_batteryless_home_server/)
 
 ## 🔗 Siti web
 
@@ -71,3 +73,4 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [Cittadino medio](https://cittadinomedio.it/)
 - [Il manifesto GNU](https://www.gnu.org/gnu/manifesto.html)
 - [bluoltremauri](https://bluoltremauri.overthegame.it/)
+- [Substreamer su AppStore](https://apps.apple.com/us/app/substreamer/id1012991665) ([View](https://livellosegreto.it/@ed/112569861837301736))
