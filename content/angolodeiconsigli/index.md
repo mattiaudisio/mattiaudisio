@@ -30,6 +30,7 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [s x rr x land](https://youtu.be/M3fVfgqpHNs?feature=shared)
 - [più domande che unboxing](https://youtu.be/FnTGLplJnnU?feature=shared)
 - [come faccio a viaggiare per lavoro](https://youtu.be/_PUKSD8cyWo?feature=shared)
+- [Una vita senza Big Tech, storie di chi cerca alternative ai giganti del web](https://peertube.uno/w/pYg7GhMR4gBmx6TCWfqRAt)
 
 ## 🎶 Musica
 
