@@ -31,6 +31,10 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [più domande che unboxing](https://youtu.be/FnTGLplJnnU?feature=shared)
 - [come faccio a viaggiare per lavoro](https://youtu.be/_PUKSD8cyWo?feature=shared)
 - [Una vita senza Big Tech, storie di chi cerca alternative ai giganti del web](https://peertube.uno/w/pYg7GhMR4gBmx6TCWfqRAt)
+- [18k](https://youtu.be/zcLcx2fQ4V0?feature=shared)
+- [TELLME//VIPRA](https://youtu.be/OllEudfvlUc?feature=shared)
+- [SXRRXWLAND // EST AND GUEST](https://youtu.be/aD7y_HZQhiM?feature=shared)
+- [IT'S RADIO BITS///VENERUS](https://open.spotify.com/episode/67frAV9cTCV9J21Y0xfB9T?si=b1ea8e8f207c4377)
 
 ## 🎶 Musica
 
