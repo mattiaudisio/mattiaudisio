@@ -36,6 +36,8 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [SXRRXWLAND // EST AND GUEST](https://youtu.be/aD7y_HZQhiM?feature=shared)
 - [IT'S RADIO BITS///VENERUS](https://open.spotify.com/episode/67frAV9cTCV9J21Y0xfB9T?si=b1ea8e8f207c4377)
 - [La dieta POVERA di chi campa 100 ANNI](https://www.youtube.com/watch?v=mLiwcMoMUKU)
+- [VOMITARE su SESSO, SOLDI E SUCCESSO è una FIGATA](https://www.youtube.com/watch?v=vBboKhKo0w4)
+
 ## 🎶 Musica
 
 - [La macchina desiderante – Felici come un computer](https://www.lamacchinadesiderante.org/felici-come-un-computer/)
