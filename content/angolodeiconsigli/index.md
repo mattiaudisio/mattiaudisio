@@ -37,9 +37,10 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [IT'S RADIO BITS///VENERUS](https://open.spotify.com/episode/67frAV9cTCV9J21Y0xfB9T?si=b1ea8e8f207c4377)
 - [La dieta POVERA di chi campa 100 ANNI](https://www.youtube.com/watch?v=mLiwcMoMUKU)
 - [VOMITARE su SESSO, SOLDI E SUCCESSO è una FIGATA](https://www.youtube.com/watch?v=vBboKhKo0w4)
+- [Virgin Social Media vs. Chad RSS](https://www.youtube.com/watch?v=hMH9w6pyzvU)
 
-## 🎶 Musica
-
+## 🎶 Musica (Songworm)
+ 
 - [La macchina desiderante – Felici come un computer](https://www.lamacchinadesiderante.org/felici-come-un-computer/)
 - [GEMITAIZ – Ballon D’Or ft. Nayt](https://youtu.be/mO2vFlCvlY8?feature=shared)
 - [I CANI BAUSTELLE](https://icanibaustelle.bandcamp.com/album/i-cani-baustelle)
@@ -47,6 +48,9 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [Evigt fr mmande evigtnfj rran by ornatorpet](https://ornatorpet.bandcamp.com/album/evigt-fr-mmande-evigt-fj-rran) (scoperto grazie a [Gabratta](https://livellosegreto.it/@Gabratta))
 - [Arottenbit - _SPECIMEN_SETTE___(PROBE#1012010)](https://youtu.be/f2V0CaIdOYY?feature=shared)
 - [Tre allegri ragazzi morti - La sola concreta realtà](https://youtu.be/MmYqRPDFALk?feature=shared)
+- [Ketama 126 - LA CACIARA ](https://www.youtube.com/watch?v=hMH9w6pyzvU)
+- [Ugo Borghetti - Santoddio](https://youtu.be/MDoAVgfeUcw?feature=shared)
+
 
 ## 📰 Articoli
 
@@ -67,6 +71,7 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [Making A Simple Static Website](https://pages.virtualgoodsdealer.com/articles/tutorial)
 - [Recensione](https://livellosegreto.it/@77nn@goto.77nn.it/113718930885823240) su [FOSS_Browser](https://codeberg.org/Gaukler_Faun/FOSS_Browser)
 - [Turn Android Phone to Batteryless Home Server](https://crackoverflow.com/docs/system_administration/containerization/turn_android_phone_to_batteryless_home_server/)
+- [A new plan](https://minutestomidnight.co.uk/blog/a-new-plan/)
 
 ## 🔗 Siti web
 
