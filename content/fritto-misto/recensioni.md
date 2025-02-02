@@ -2,9 +2,15 @@
 title: 'Recensioni randomiche non richieste su Film, Serie Tv, Videogiochi'
 date: 2024-01-01T17:31:05+02:00
 tags: ['📔 Senza Meta']
+ShowWordCount: false
+hideAuthor: true
+ShowPostNavLinks: false
+description: "Un elenco non finito di recensioni randomiche che ho lascitato in giro per l'internet con account che ora non esistono più."
+layout: 'article'
+ShowShareButtons: true
 ---
 
-Un elenco non finito di recensioni randomiche che ho lascitato in giro per l'internet con account che ora non esistono più. **Attenzione ci sono tanti spoiler**
+**Attenzione ci sono tanti spoiler**
 
 
 ## [The suicide of Rachel Foster](https://store.steampowered.com/app/1057750/The_Suicide_of_Rachel_Foster/) | 27/07/2021

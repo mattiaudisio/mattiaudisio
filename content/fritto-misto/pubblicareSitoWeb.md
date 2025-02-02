@@ -2,6 +2,12 @@
 title: 'Come pubblicare gratuitamente un sito web (statico o dinamico)'
 date: 2023-01-19T21:26:12+02:00
 tags: ['👨‍💻 Echo 404']
+ShowWordCount: false
+hideAuthor: true
+ShowPostNavLinks: false
+description: "Fatto il sito? È il momento di andare online!"
+layout: 'article'
+ShowShareButtons: true
 ---
 
 Stai realizzando il tuo sito web, l'hai praticamente completato e non vedi l'ora di pubblicarlo ma, purtroppo, non hai i soldi per prenderti per prendere un servizio di hosting dove caricarlo?

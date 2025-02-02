@@ -2,6 +2,12 @@
 title: "Rendere il tuo telefono ＦＯＳＳ　往いぞ"
 date: 2024-04-14T20:12:07+02:00
 tags: ['👨‍💻 Echo 404']
+ShowWordCount: false
+hideAuthor: true
+ShowPostNavLinks: false
+description: "Una lista di APP che ti permetteranno di rendere il tuo telefono sempre più open source"
+layout: 'article'
+ShowShareButtons: true
 ---
 
 _So che il titolo a livello tecnico non è scritto in modo corretto, ma per stavolta passatemi la svirgolata artistica_

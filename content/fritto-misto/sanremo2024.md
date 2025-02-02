@@ -2,9 +2,13 @@
 title: 'Un pensiero su Sanremo'
 date: 2024-02-11T17:37:21+02:00
 tags: ['📔 Senza Meta']
+ShowWordCount: false
+hideAuthor: true
+ShowPostNavLinks: false
+description: "articolo nato inizialmente come Toot su Livello Segreto"
+layout: 'article'
+ShowShareButtons: true
 ---
-
-_articolo nato inizialmente come Toot su Livello Segreto_
 
 Contento per Angelina Mango che ha fatto una bella canzone, niente da dire, però mi è sinceramente dispiaciuto per l'odio che si è preso Geolier.
 

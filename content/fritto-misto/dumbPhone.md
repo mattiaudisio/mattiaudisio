@@ -2,6 +2,12 @@
 title: "Come realizzare un moderno Dumbphone"
 date: 2024-08-10T10:15:08+02:00
 tags: ['👨‍💻 Echo 404']
+ShowWordCount: false
+hideAuthor: true
+ShowPostNavLinks: false
+description: "Come cerco di ridurre la mia dipendenza dallo smartphone"
+layout: 'article'
+ShowShareButtons: true
 ---
 
 Da come si può intuire, ho un pessimo rapporto con la tecnologia.

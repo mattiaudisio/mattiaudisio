@@ -2,9 +2,13 @@
 title: 'Wrapped 2024'
 date: 2024-12-27T18:37:21+02:00
 tags: ['📔 Senza Meta']
+ShowWordCount: false
+hideAuthor: true
+ShowPostNavLinks: false
+description: "Mega recap di tutte i media che ho assimilato nel mio 2024."
+layout: 'article'
+ShowShareButtons: true
 ---
-
-Mega recap di tutte i media che ho assimilato nel mio 2024.
 
 ## 🎬​ Film
 

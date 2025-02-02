@@ -2,6 +2,12 @@
 title: 'Usare Thunderbird come backup per le mail di Gmail'
 date: 2024-01-24T21:50:21+02:00
 tags: ['👨‍💻 Echo 404']
+ShowWordCount: false
+hideAuthor: true
+ShowPostNavLinks: false
+description: "Un modo veloce e open source di libeare spazio sulla tua mail Google"
+layout: 'article'
+ShowShareButtons: true
 ---
 
 In questi anni ho notato una tendenza che trovo particolare. Nel mondo del lavoro, molte persone, in particolare nelle piccole imprese, tendono ad usare utilizzare la propria mail personale.

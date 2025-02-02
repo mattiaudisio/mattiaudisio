@@ -2,6 +2,12 @@
 title: 'Un mese di sfida.. per diminuire  lo schifo verso me stesso'
 date: 2023-12-01T16:14:43+02:00
 tags: ['📔 Senza Meta']
+ShowWordCount: false
+hideAuthor: true
+ShowPostNavLinks: false
+description: "mega recap di una sfida che ho deciso di fare"
+layout: 'article'
+ShowShareButtons: true
 ---
 
 ## Premessa

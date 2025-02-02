@@ -2,6 +2,12 @@
 title: "Come realizzare un sito web da vero soydevs"
 date: 2024-09-18T17:08:17+02:00
 tags: ['👨‍💻 Echo 404']
+ShowWordCount: false
+hideAuthor: true
+ShowPostNavLinks: false
+description: "Corri a prendere il tuo caffè Starbucks, è ora di scrivere qualche riga in Javascript"
+layout: 'article'
+ShowShareButtons: true
 ---
 
 Ciao bambino! Come dici?? Ti piace La Silicon Valley? I Cofee Shop? Vuoi essere un programmatore e lavorare con il macbook che è costato 3 stipendi di tuo padre ma non sai come come fare dato che conosci solo HTML e Javascript? 

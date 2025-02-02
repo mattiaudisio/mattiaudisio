@@ -2,6 +2,12 @@
 title: 'Come ho installato Nextcloud su un Raspberry Pi 3'
 date: 2024-04-14T19:32:17+02:00
 tags: ['👨‍💻 Echo 404']
+ShowWordCount: false
+hideAuthor: true
+ShowPostNavLinks: false
+description: "Crea il tuo Drive personale tramite un Raspberry Pi"
+layout: 'article'
+ShowShareButtons: true
 ---
 
 Qualche tempo fa ho perso un paio di neuroni dietro ad uno sfizio che mi avevo lì da un pò di tempo: Installare Nextcloud sopra il Raspberry Pi 3 che ho in casa.

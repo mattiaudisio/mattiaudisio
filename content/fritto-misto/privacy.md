@@ -2,9 +2,13 @@
 title: 'Come migliorare la tua privacy online'
 date: 2022-11-01T21:15:06+02:00
 tags: ['👨‍💻 Echo 404']
+ShowWordCount: false
+hideAuthor: true
+ShowPostNavLinks: false
+description: "Cinque semplici passi per migliorare la tua privacy online utilizzando servizi e software alternativi che tutelano i tuoi dati."
+layout: 'article'
+ShowShareButtons: true
 ---
-
-Cinque semplici passi per migliorare la tua privacy online utilizzando servizi e software alternativi che tutelano i tuoi dati.
 
 Negli ultimi anni l'argomento della privacy è diventato uno dei topic più chiaccherati e discussi da blog e forum. Ormai molti sviluppatori o appasionati di informatica e di tecnologia stanno piano piano migrando in servizi che la garantiscono. Oggi voglio consigliare a chi vuole entrare in questo mondo 5 semplici passi per migliorare la loro privacy.
 

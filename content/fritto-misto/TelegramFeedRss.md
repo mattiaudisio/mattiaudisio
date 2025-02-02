@@ -2,6 +2,12 @@
 title: 'Usare Telegram come un lettore di Feed RSS'
 date: 2024-01-31T19:04:26+02:00
 tags: ['👨‍💻 Echo 404']
+ShowWordCount: false
+hideAuthor: true
+ShowPostNavLinks: false
+description: "Tieniti sempre aggiornato grazie a Telegram e i feed RSS"
+layout: 'article'
+ShowShareButtons: true
 ---
 
 I feed RSS sono quelle cose che, durante la mia “carriera/vita” su internet, gira girato tornano a fare capolinea ogni tanto.

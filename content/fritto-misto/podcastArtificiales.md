@@ -2,6 +2,12 @@
 title: 'Creare un intero podcast artificialmente'
 date: 2023-12-20T21:07:49+02:00
 tags: ['👨‍💻 Echo 404']
+ShowWordCount: false
+hideAuthor: true
+ShowPostNavLinks: false
+description: 'Anche detto: "mega sega mentale fatta dopo aver letto un Toot"'
+layout: 'article'
+ShowShareButtons: true
 ---
 
 Ieri, mentre cazzeggiavo nella timeline locale, mi sono imbattuto in  [questo post](https://livellosegreto.it/@cesco/111606253044821035) di [cesco](https://livellosegreto.it/@cesco) che, per una persona a cui piace sperimentare scrivendo righe di codice, non dirà niente di nuovo... a me invece sta cosa ha fatto scoreggiare il cervello.

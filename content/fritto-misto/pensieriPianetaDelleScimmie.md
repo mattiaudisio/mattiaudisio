@@ -2,6 +2,12 @@
 title: 'Considerazione nata dopo la visione di "Il regno del pianeta delle scimmie"'
 date: 2024-05-14T17:31:05+02:00
 tags: ['📔 Senza Meta']
+ShowWordCount: false
+hideAuthor: true
+ShowPostNavLinks: false
+description: "Articolo nato da un memo vocale fatto il 13 maggio 2024 dopo aver visto il film al cinema"
+layout: 'article'
+ShowShareButtons: true
 ---
 
 Il nuovo film del Pianeta della scimmie è un film inutile e medrioche,ma che m'ha fatto capire 2 cose..
@@ -13,5 +19,3 @@ _secondo_: sto capendo Fada quando dice nelle reaction: _**"Musica matematicamen
 Questo film in particolare sembra scritto dall'Intelligenza Artificale (_Ok chatGPT, scrivimi una storia con protagonisti delle scimmie che vivono in un mondo con pochissimi umani vivi e condiscilo con tutti i clichè di sceneggiatura che abbiamo visto negli ultimi 20 anni nei cinema USA_)...
 
 La devo smettere di guardare film americani
-
-_Articolo nato da un memo vocale fatto il 13 maggio 2024 dopo aver visto il film al cinema_

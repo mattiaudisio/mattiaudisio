@@ -2,6 +2,12 @@
 title: 'Come ho installato localmente invidious'
 date: 2024-06-03T21:02:25+02:00
 tags: ['👨‍💻 Echo 404']
+ShowWordCount: false
+hideAuthor: true
+ShowPostNavLinks: false
+description: "Un mondo alternativo di guardare YouTube"
+layout: 'article'
+ShowShareButtons: true
 ---
 
 Piccolo articolo veloce per spiegare come installare localmente una propria istanza invidious, in modo da vedere i video dei tuoi youtuber preferiti senza essere tracciato da YouTube.

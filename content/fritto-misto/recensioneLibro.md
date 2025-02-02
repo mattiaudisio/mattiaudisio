@@ -2,6 +2,12 @@
 title: 'Recensione "Filosofia Giapponese, 4 libri in 1"'
 date: 2023-10-08T17:31:05+02:00
 tags: ['📔 Senza Meta']
+ShowWordCount: false
+hideAuthor: true
+ShowPostNavLinks: false
+description: "Recensione di un libro fatta su Lore tempo fa"
+layout: 'article'
+ShowShareButtons: true
 ---
 
 Avevo preso questo libro circa 2 anni fa, ma tra vari cambi nella mia vita con tanto di dimenticanza di avere questo libro nel mio scaffale, l'ho recuperato solo quest'anno.

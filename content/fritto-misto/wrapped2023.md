@@ -2,6 +2,12 @@
 title: 'Wrapped 2023 (anche detto il meglio del 2023)'
 date: 2023-12-15T17:37:21+02:00
 tags: ['📔 Senza Meta']
+ShowWordCount: false
+hideAuthor: true
+ShowPostNavLinks: false
+description: "Mega recap di tutte i media che ho assimilato nel mio 2023."
+layout: 'article'
+ShowShareButtons: true
 ---
 
 Qualche giorno fa sono incappato nell'[articolo](https://www.andreacorinti.com/posts/ita/2023/) del buon Andrea Corinti, conosciuto anche con i nickname di [Xab](https://livellosegreto.it/@xabacadabra) e di “Brava persona che fa cose belle a cui frego ogni tanto qualche idea”... e, come si capisce da queste ultime parole, ho deciso di nuovo di grattare idee dal suo blog per scrivere quest'articolo.

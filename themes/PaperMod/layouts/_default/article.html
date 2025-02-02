@@ -1,0 +1,131 @@
+{{- if lt hugo.Version "0.112.4" }}
+{{- errorf "=> hugo v0.112.4 or greater is required for hugo-PaperMod to build " }}
+{{- end -}}
+
+<!DOCTYPE html>
+<html lang="{{ site.Language }}" dir="{{ .Language.LanguageDirection | default "auto" }}">
+
+<head>
+    {{- partial "head.html" . }}
+</head>
+
+<body class="
+{{- if (or (ne .Kind `page` ) (eq .Layout `archives`) (eq .Layout `search`)) -}}
+{{- print "list" -}}
+{{- end -}}
+{{- if eq site.Params.defaultTheme `dark` -}}
+{{- print " dark" }}
+{{- end -}}
+" id="top">
+    {{- /* theme-toggle is enabled */}}
+    {{- if (not site.Params.disableThemeToggle) }}
+    {{- /* theme is light */}}
+    {{- if (eq site.Params.defaultTheme "light") }}
+    <script>
+        if (localStorage.getItem("pref-theme") === "dark") {
+            document.body.classList.add('dark');
+        }
+
+    </script>
+    {{- /* theme is dark */}}
+    {{- else if (eq site.Params.defaultTheme "dark") }}
+    <script>
+        if (localStorage.getItem("pref-theme") === "light") {
+            document.body.classList.remove('dark')
+        }
+
+    </script>
+    {{- else }}
+    {{- /* theme is auto */}}
+    <script>
+        if (localStorage.getItem("pref-theme") === "dark") {
+            document.body.classList.add('dark');
+        } else if (localStorage.getItem("pref-theme") === "light") {
+            document.body.classList.remove('dark')
+        } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            document.body.classList.add('dark');
+        }
+
+    </script>
+    {{- end }}
+    {{- /* theme-toggle is disabled and theme is auto */}}
+    {{- else if (and (ne site.Params.defaultTheme "light") (ne site.Params.defaultTheme "dark"))}}
+    <script>
+        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            document.body.classList.add('dark');
+        }
+
+    </script>
+    {{- end }}
+
+    <header class="header">
+        <nav class="nav">
+            <div class="logo">
+                {{- $label_text := (site.Params.label.text | default site.Title) }}
+                {{- if site.Title }}
+                <a href="/fritto-misto" accesskey="h" title="Torna indietro">
+                    <span style="color: red;">←</span> Fritto Misto
+                </a>
+                {{- end }}
+                </div>
+            </div>
+        </nav>
+    </header>
+    <main class="main">
+        <article class="post-single">
+            <header class="post-header">
+              <!-- {{ partial "breadcrumbs.html" . }} -->
+              <div class="entry-header-2">
+                {{- if not (.Param "hideMeta") }}
+                <div class="post-meta">
+                  {{- partial "post_meta.html" . -}}
+                </div>
+                {{- end }}
+              </div>
+              <h1 class="post-title entry-hint-parent">
+                {{ .Title }}
+              </h1>
+              {{- if .Description }}
+              <div class="post-description">
+                {{ .Description }}
+              </div>
+              {{- end }}
+            </header>
+            {{- $isHidden := (.Param "cover.hiddenInSingle") | default (.Param "cover.hidden") | default false }}
+            {{- partial "cover.html" (dict "cxt" . "IsSingle" true "isHidden" $isHidden) }}
+            {{- if (.Param "ShowToc") }}
+            {{- partial "toc.html" . }}
+            {{- end }}
+          
+            {{- if .Content }}
+            <div class="post-content">
+              {{- if not (.Param "disableAnchoredHeadings") }}
+              {{- partial "anchored_headings.html" .Content -}}
+              {{- else }}{{ .Content }}{{ end }}
+            </div>
+            {{- end }}
+          
+            <footer class="post-footer">
+              {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
+              <ul class="post-tags">
+                {{- range ($.GetTerms $tags) }}
+                <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+                {{- end }}
+              </ul>
+              {{- if (.Param "ShowPostNavLinks") }}
+              {{- partial "post_nav_links.html" . }}
+              {{- end }}
+              {{- if (and site.Params.ShowShareButtons (ne .Params.disableShare true)) }}
+              {{- partial "share_icons.html" . -}}
+              {{- end }}
+            </footer>
+          
+            {{- if (.Param "comments") }}
+            {{- partial "comments.html" . }}
+            {{- end }}
+          </article>
+    </main>
+    {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
+</body>
+
+</html>

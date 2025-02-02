@@ -2,9 +2,13 @@
 title: 'Astro Framework Setup Tutorial'
 date: 2022-10-06T20:19:50+02:00
 tags: ['👨‍💻 Echo 404']
+ShowWordCount: false
+hideAuthor: true
+ShowPostNavLinks: false
+description: "Come installare il framework Astro all'interno del tuo sito web"
+layout: 'article'
+ShowShareButtons: true
 ---
-
-Come installare il framework Astro all'interno del tuo sito web
 
 Piccola guida sul come preparare il setup per realizzare il tuo sito web con il framework [Astro](https://astro.build/).
 

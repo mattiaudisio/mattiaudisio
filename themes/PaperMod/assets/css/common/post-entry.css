@@ -84,10 +84,10 @@
     color: var(--secondary);
 }
 
-.entry-hint-parent {
+/*.entry-hint-parent {
     display: flex;
     justify-content: space-between;
-}
+}*/
 
 .entry-cover {
     font-size: 14px;
