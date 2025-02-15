@@ -1,8 +1,13 @@
-+++
-title = 'Sito web: Officina del Padel'
-date = 2024-09-08T14:06:25+02:00
-draft = false
-+++
+---
+title: "Sito web: Officina del Padel"
+date: 2024-09-08T14:06:25+02:00
+ShowWordCount: false
+hideAuthor: true
+ShowReadingTime: false
+ShowShareButtons: false
+hideMeta: true
+disableShare: true
+---
 
 ![](../../images/projects/officinadelpadel.png)
 

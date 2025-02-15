@@ -1,8 +1,13 @@
-+++
-title = 'Sito web: Mangiatori di nuvole'
-date = 2024-09-08T14:06:54+02:00
-draft = false
-+++
+---
+title: "Sito web: Mangiatori di nuvole"
+date: 2024-09-08T14:06:54+02:00
+ShowWordCount: false
+hideAuthor: true
+ShowReadingTime: false
+ShowShareButtons: false
+hideMeta: true
+disableShare: true
+---
 
 ![](../../images/projects/mangiatoridinuvole.png)
 
