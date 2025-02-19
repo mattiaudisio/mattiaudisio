@@ -45,6 +45,8 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [La dieta POVERA di chi campa 100 ANNI](https://www.youtube.com/watch?v=mLiwcMoMUKU)
 - [VOMITARE su SESSO, SOLDI E SUCCESSO è una FIGATA](https://www.youtube.com/watch?v=vBboKhKo0w4)
 - [Virgin Social Media vs. Chad RSS](https://www.youtube.com/watch?v=hMH9w6pyzvU)
+- [SPITTIN FACTS sul CAMBIARE VITA](https://www.youtube.com/watch?v=dABlhdgJn9c)
+- [18K PARLA DI RAP, VIDEOGIOCHI E LAVORI BRUTTI](https://www.youtube.com/watch?v=dABlhdgJn9c) (Maledetti bastardi che hanno messo l'intero su Patreon)
 
 ## 🎶 Musica (Songworm)
  
