@@ -47,7 +47,7 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [Virgin Social Media vs. Chad RSS](https://www.youtube.com/watch?v=hMH9w6pyzvU)
 - [SPITTIN FACTS sul CAMBIARE VITA](https://www.youtube.com/watch?v=dABlhdgJn9c)
 - [18K PARLA DI RAP, VIDEOGIOCHI E LAVORI BRUTTI](https://www.youtube.com/watch?v=dABlhdgJn9c) (Maledetti bastardi che hanno messo l'intero su Patreon)
-
+- [What's The Problem? - Demystifying why we all need Bitcoin - Joe Bryan](https://youtu.be/YtFOxNbmD38?feature=shared)
 ## 🎶 Musica (Songworm)
  
 - [La macchina desiderante – Felici come un computer](https://www.lamacchinadesiderante.org/felici-come-un-computer/)
