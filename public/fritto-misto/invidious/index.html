@@ -73,7 +73,7 @@ services:
 
     volumes:
         postgresdata:
-</code></pre><p><strong>Piccola nota a margine</strong>: A causa di vari problemi, Invidious deve essere riavviato spesso, almeno una volta al giorno, idealmente ogni ora.</p><h2 id=eseguire-invidious>Eseguire invidious<a hidden class=anchor aria-hidden=true href=#eseguire-invidious>#</a></h2><p>Per eseguire Invidious, basta entrare dentro la directory <em>invidious</em> ed eseguire il comando <em>podman-compose up</em></p><pre><code> cd invidious/
+</code></pre><br><p><strong>Piccola nota a margine</strong>: A causa di vari problemi, Invidious deve essere riavviato spesso, almeno una volta al giorno, idealmente ogni ora.</p><h2 id=eseguire-invidious>Eseguire invidious<a hidden class=anchor aria-hidden=true href=#eseguire-invidious>#</a></h2><p>Per eseguire Invidious, basta entrare dentro la directory <em>invidious</em> ed eseguire il comando <em>podman-compose up</em></p><pre><code> cd invidious/
  podman-compose up
 </code></pre><p>Per ottimizzare quest&rsquo;operazione ho creato un piccolo script shell che mi permette di accendere, spegnere e aggiornare invidious</p><pre><code> #!/bin/bash
 
