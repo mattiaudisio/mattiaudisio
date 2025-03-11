@@ -50,6 +50,7 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [What's The Problem? - Demystifying why we all need Bitcoin - Joe Bryan](https://youtu.be/YtFOxNbmD38?feature=shared)
 - [IL MARKETING ti sta ROVINANDO la VITA](https://youtu.be/UJwl-7mImFE?feature=shared)
 - [Come Imparo? 📚 tutte le mie fonti](https://youtu.be/RoV9RN1v-_Q?feature=shared)
+- [Cambiare Abitudini, assumere psichedelici e vivere in eterno con Valerio Rosso](https://www.youtube.com/watch?v=kDmyLg_0-Eo)
 
 ## 🎶 Musica (Songworm)
  
