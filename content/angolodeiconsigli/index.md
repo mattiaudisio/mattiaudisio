@@ -46,7 +46,7 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [VOMITARE su SESSO, SOLDI E SUCCESSO è una FIGATA](https://www.youtube.com/watch?v=vBboKhKo0w4)
 - [Virgin Social Media vs. Chad RSS](https://www.youtube.com/watch?v=hMH9w6pyzvU)
 - [SPITTIN FACTS sul CAMBIARE VITA](https://www.youtube.com/watch?v=dABlhdgJn9c)
-- [18K PARLA DI RAP, VIDEOGIOCHI E LAVORI BRUTTI](https://www.youtube.com/watch?v=dABlhdgJn9c) (Maledetti bastardi che hanno messo l'intero su Patreon)
+- [18K PARLA DI RAP, VIDEOGIOCHI E LAVORI BRUTTI](https://youtu.be/vMesSdPERmY?feature=shared) (Maledetti bastardi che hanno messo l'intero su Patreon)
 - [What's The Problem? - Demystifying why we all need Bitcoin - Joe Bryan](https://youtu.be/YtFOxNbmD38?feature=shared)
 - [IL MARKETING ti sta ROVINANDO la VITA](https://youtu.be/UJwl-7mImFE?feature=shared)
 - [Come Imparo? 📚 tutte le mie fonti](https://youtu.be/RoV9RN1v-_Q?feature=shared)
