@@ -85,6 +85,7 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [Recensione](https://livellosegreto.it/@77nn@goto.77nn.it/113718930885823240) su [FOSS_Browser](https://codeberg.org/Gaukler_Faun/FOSS_Browser)
 - [Turn Android Phone to Batteryless Home Server](https://crackoverflow.com/docs/system_administration/containerization/turn_android_phone_to_batteryless_home_server/)
 - [A new plan](https://minutestomidnight.co.uk/blog/a-new-plan/)
+- [SIAMO MALATI - Meccanopatia](https://www.ilblast.it/siamo-malati/)
 
 ## 🔗 Siti web
 
