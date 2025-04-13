@@ -51,6 +51,7 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [IL MARKETING ti sta ROVINANDO la VITA](https://youtu.be/UJwl-7mImFE?feature=shared)
 - [Come Imparo? 📚 tutte le mie fonti](https://youtu.be/RoV9RN1v-_Q?feature=shared)
 - [Cambiare Abitudini, assumere psichedelici e vivere in eterno con Valerio Rosso](https://www.youtube.com/watch?v=kDmyLg_0-Eo)
+- [Disintossicarsi dai social network si può! | Marco Tomasin | TEDxMantova Youth](https://www.youtube.com/watch?v=e0wN-baPVb0)
 
 ## 🎶 Musica (Songworm)
  
