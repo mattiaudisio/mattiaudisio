@@ -104,3 +104,4 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [bluoltremauri](https://bluoltremauri.overthegame.it/)
 - [Substreamer su AppStore](https://apps.apple.com/us/app/substreamer/id1012991665) ([View](https://livellosegreto.it/@ed/112569861837301736))
 - [Shai Network](https://shainetwork.org/sito/)
+- [federicko](https://federicko.neocities.org/)

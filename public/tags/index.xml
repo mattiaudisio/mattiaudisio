@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Mattia Audisio</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://mattiaudisio.github.io/tags/</link>
     <description>Recent content in Tags on Mattia Audisio</description>
     <generator>Hugo -- 0.134.3</generator>
     <language>it-it</language>
-    <lastBuildDate>Mon, 24 Feb 2025 23:00:27 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Apr 2025 23:15:08 +0200</lastBuildDate>
+    <atom:link href="https://mattiaudisio.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>📔 Senza Meta</title>
-      <link>http://localhost:1313/tags/-senza-meta/</link>
-      <pubDate>Mon, 24 Feb 2025 23:00:27 +0100</pubDate>
-      <guid>http://localhost:1313/tags/-senza-meta/</guid>
+      <link>https://mattiaudisio.github.io/tags/-senza-meta/</link>
+      <pubDate>Tue, 15 Apr 2025 23:15:08 +0200</pubDate>
+      <guid>https://mattiaudisio.github.io/tags/-senza-meta/</guid>
       <description></description>
     </item>
     <item>
       <title>👨‍💻 Echo 404</title>
-      <link>http://localhost:1313/tags/-echo-404/</link>
+      <link>https://mattiaudisio.github.io/tags/-echo-404/</link>
       <pubDate>Mon, 07 Oct 2024 21:01:57 +0200</pubDate>
-      <guid>http://localhost:1313/tags/-echo-404/</guid>
+      <guid>https://mattiaudisio.github.io/tags/-echo-404/</guid>
       <description></description>
     </item>
   </channel>
