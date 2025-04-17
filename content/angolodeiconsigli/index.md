@@ -52,6 +52,7 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [Come Imparo? 📚 tutte le mie fonti](https://youtu.be/RoV9RN1v-_Q?feature=shared)
 - [Cambiare Abitudini, assumere psichedelici e vivere in eterno con Valerio Rosso](https://www.youtube.com/watch?v=kDmyLg_0-Eo)
 - [Disintossicarsi dai social network si può! | Marco Tomasin | TEDxMantova Youth](https://www.youtube.com/watch?v=e0wN-baPVb0)
+- [VIVO PER 24h CON UN HACKER! Lorenzo Faletra, hacking, parrot opere e passioni!](https://youtu.be/giSo1-lQoWk?feature=shared)
 
 ## 🎶 Musica (Songworm)
  
