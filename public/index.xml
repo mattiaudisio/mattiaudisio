@@ -2,52 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Mattia Audisio</title>
-    <link>https://mattiaudisio.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Mattia Audisio</description>
     <generator>Hugo -- 0.134.3</generator>
     <language>it-it</language>
-    <lastBuildDate>Tue, 15 Apr 2025 23:15:08 +0200</lastBuildDate>
-    <atom:link href="https://mattiaudisio.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Apr 2025 22:53:54 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Implementare le API di Google Calendar sul tuo sito Laravel</title>
+      <link>http://localhost:1313/fritto-misto/laravel-calendar-api/</link>
+      <pubDate>Fri, 18 Apr 2025 22:53:54 +0200</pubDate>
+      <guid>http://localhost:1313/fritto-misto/laravel-calendar-api/</guid>
+      <description>Piccolo tutorial fatto per evitare altre novantamila bestemmie</description>
+    </item>
     <item>
       <title>Pillole tascabili altamente inutili sull&#39;emo</title>
-      <link>https://mattiaudisio.github.io/fritto-misto/emocore/</link>
+      <link>http://localhost:1313/fritto-misto/emocore/</link>
       <pubDate>Tue, 15 Apr 2025 23:15:08 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/fritto-misto/emocore/</guid>
+      <guid>http://localhost:1313/fritto-misto/emocore/</guid>
       <description>Una serie di informazioni che ho ricavato per un progetto ormai concluso</description>
     </item>
     <item>
       <title>Fritto Misto tra le rovine</title>
-      <link>https://mattiaudisio.github.io/fritto-misto/fritto-misto/</link>
+      <link>http://localhost:1313/fritto-misto/fritto-misto/</link>
       <pubDate>Mon, 24 Feb 2025 23:00:27 +0100</pubDate>
-      <guid>https://mattiaudisio.github.io/fritto-misto/fritto-misto/</guid>
+      <guid>http://localhost:1313/fritto-misto/fritto-misto/</guid>
       <description>In mezzi ai grattaceli e le rovine che rappresentano tutto quello che mi succede nella vita, proviamo a fare un fritto misto con quello che troviamo</description>
     </item>
     <item>
       <title>Wrapped 2024</title>
-      <link>https://mattiaudisio.github.io/fritto-misto/wrapped2024/</link>
+      <link>http://localhost:1313/fritto-misto/wrapped2024/</link>
       <pubDate>Fri, 27 Dec 2024 18:37:21 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/fritto-misto/wrapped2024/</guid>
+      <guid>http://localhost:1313/fritto-misto/wrapped2024/</guid>
       <description>Mega recap di tutte i media che ho assimilato nel mio 2024.</description>
     </item>
     <item>
       <title>Come ho customizzato Linux Mint Cinnamon</title>
-      <link>https://mattiaudisio.github.io/fritto-misto/customlinuxmint/</link>
+      <link>http://localhost:1313/fritto-misto/customlinuxmint/</link>
       <pubDate>Mon, 07 Oct 2024 21:01:57 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/fritto-misto/customlinuxmint/</guid>
+      <guid>http://localhost:1313/fritto-misto/customlinuxmint/</guid>
       <description>UX porn</description>
     </item>
     <item>
       <title>Come realizzare un sito web da vero soydevs</title>
-      <link>https://mattiaudisio.github.io/fritto-misto/soydevs/</link>
+      <link>http://localhost:1313/fritto-misto/soydevs/</link>
       <pubDate>Wed, 18 Sep 2024 17:08:17 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/fritto-misto/soydevs/</guid>
+      <guid>http://localhost:1313/fritto-misto/soydevs/</guid>
       <description>Corri a prendere il tuo caffè Starbucks, è ora di scrivere qualche riga in Javascript</description>
     </item>
     <item>
       <title>Sito web: Mangiatori di nuvole</title>
-      <link>https://mattiaudisio.github.io/project/mangiatoridinuvole/</link>
+      <link>http://localhost:1313/project/mangiatoridinuvole/</link>
       <pubDate>Sun, 08 Sep 2024 14:06:54 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/project/mangiatoridinuvole/</guid>
+      <guid>http://localhost:1313/project/mangiatoridinuvole/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/projects/mangiatoridinuvole.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Realizzazione del sito della compagnia teatrale “&lt;a href=&#34;https://www.instagram.com/mangiatori_di_nuvole/&#34;&gt;Mangiatori di Nuvole&lt;/a&gt;” di Caraglio (CN). Sito realizzato utilizzando il CMS Wordpress con l’aggiunta del plugin Elementor e hostato tramite Altervista.&lt;/p&gt;
@@ -55,17 +62,17 @@
     </item>
     <item>
       <title>Verdena Lyrics</title>
-      <link>https://mattiaudisio.github.io/project/verdenalyrics/</link>
+      <link>http://localhost:1313/project/verdenalyrics/</link>
       <pubDate>Sun, 08 Sep 2024 14:06:45 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/project/verdenalyrics/</guid>
+      <guid>http://localhost:1313/project/verdenalyrics/</guid>
       <description>&lt;p&gt;Nato inizialmente come possibile tesi per l’esame del corso post diploma svolto all’AFP di Cuneo. Un app Android che permette di leggere, tramite lettura dei file JSON, i testi della rock band italiana Verdena.&lt;/p&gt;
 &lt;p&gt;📍Maggiori informazioni &lt;a href=&#34;https://github.com/piacerematthew/verdenaLyrics&#34;&gt;qui&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sito web: FaiDaTe By Lorè</title>
-      <link>https://mattiaudisio.github.io/project/faidatebylore/</link>
+      <link>http://localhost:1313/project/faidatebylore/</link>
       <pubDate>Sun, 08 Sep 2024 14:06:33 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/project/faidatebylore/</guid>
+      <guid>http://localhost:1313/project/faidatebylore/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/projects/faidatebylore.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Realizzazione del sito per la pagina instagram &lt;a href=&#34;https://www.instagram.com/faidatebylore/&#34;&gt;FaiDaTe By Lorè&lt;/a&gt;. Sito realizzato utilizzando il CMS Wordpress con l’aggiunta del plugin Elementor e hostato tramite Altervista.&lt;/p&gt;
@@ -73,9 +80,9 @@
     </item>
     <item>
       <title>Sito web: Officina del Padel</title>
-      <link>https://mattiaudisio.github.io/project/officinadelpadel/</link>
+      <link>http://localhost:1313/project/officinadelpadel/</link>
       <pubDate>Sun, 08 Sep 2024 14:06:25 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/project/officinadelpadel/</guid>
+      <guid>http://localhost:1313/project/officinadelpadel/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/projects/officinadelpadel.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Realizzazione del sito per il club di paddle “Officina del Padel” di Villafalletto. Sito statico realizzato tramite un template Boostrap.&lt;/p&gt;
@@ -83,9 +90,9 @@
     </item>
     <item>
       <title>Sito web: Ristorante “Il portichetto”</title>
-      <link>https://mattiaudisio.github.io/project/portichetto/</link>
+      <link>http://localhost:1313/project/portichetto/</link>
       <pubDate>Sun, 08 Sep 2024 14:06:15 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/project/portichetto/</guid>
+      <guid>http://localhost:1313/project/portichetto/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/projects/portichetto.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Realizzazione del sito del risorante “Il Portichetto” di Caraglio (CN). Sito statico realizzato tramite un template Boostrap e hostato tramite Github Pages.&lt;/p&gt;
@@ -93,151 +100,151 @@
     </item>
     <item>
       <title>Come realizzare un moderno Dumbphone</title>
-      <link>https://mattiaudisio.github.io/fritto-misto/dumbphone/</link>
+      <link>http://localhost:1313/fritto-misto/dumbphone/</link>
       <pubDate>Sat, 10 Aug 2024 10:15:08 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/fritto-misto/dumbphone/</guid>
+      <guid>http://localhost:1313/fritto-misto/dumbphone/</guid>
       <description>Come cerco di ridurre la mia dipendenza dallo smartphone</description>
     </item>
     <item>
       <title>Pensiero partorito dopo la visione di Deadpool &amp; Wolverine</title>
-      <link>https://mattiaudisio.github.io/fritto-misto/pensierodopodeadpoolandwolverine/</link>
+      <link>http://localhost:1313/fritto-misto/pensierodopodeadpoolandwolverine/</link>
       <pubDate>Mon, 29 Jul 2024 23:54:55 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/fritto-misto/pensierodopodeadpoolandwolverine/</guid>
+      <guid>http://localhost:1313/fritto-misto/pensierodopodeadpoolandwolverine/</guid>
       <description>Articolo nato da un memo vocale fatto il 29 luglio 2024 dopo aver visto il film al cinema</description>
     </item>
     <item>
       <title>Come ho installato localmente invidious</title>
-      <link>https://mattiaudisio.github.io/fritto-misto/invidious/</link>
+      <link>http://localhost:1313/fritto-misto/invidious/</link>
       <pubDate>Mon, 03 Jun 2024 21:02:25 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/fritto-misto/invidious/</guid>
+      <guid>http://localhost:1313/fritto-misto/invidious/</guid>
       <description>Un mondo alternativo di guardare YouTube</description>
     </item>
     <item>
       <title>Considerazione nata dopo la visione di &#34;Il regno del pianeta delle scimmie&#34;</title>
-      <link>https://mattiaudisio.github.io/fritto-misto/pensieripianetadellescimmie/</link>
+      <link>http://localhost:1313/fritto-misto/pensieripianetadellescimmie/</link>
       <pubDate>Tue, 14 May 2024 17:31:05 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/fritto-misto/pensieripianetadellescimmie/</guid>
+      <guid>http://localhost:1313/fritto-misto/pensieripianetadellescimmie/</guid>
       <description>Articolo nato da un memo vocale fatto il 13 maggio 2024 dopo aver visto il film al cinema</description>
     </item>
     <item>
       <title>Rendere il tuo telefono ＦＯＳＳ　往いぞ</title>
-      <link>https://mattiaudisio.github.io/fritto-misto/appfoss/</link>
+      <link>http://localhost:1313/fritto-misto/appfoss/</link>
       <pubDate>Sun, 14 Apr 2024 20:12:07 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/fritto-misto/appfoss/</guid>
+      <guid>http://localhost:1313/fritto-misto/appfoss/</guid>
       <description>Una lista di APP che ti permetteranno di rendere il tuo telefono sempre più open source</description>
     </item>
     <item>
       <title>Come ho installato Nextcloud su un Raspberry Pi 3</title>
-      <link>https://mattiaudisio.github.io/fritto-misto/raspberrynextcloud/</link>
+      <link>http://localhost:1313/fritto-misto/raspberrynextcloud/</link>
       <pubDate>Sun, 14 Apr 2024 19:32:17 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/fritto-misto/raspberrynextcloud/</guid>
+      <guid>http://localhost:1313/fritto-misto/raspberrynextcloud/</guid>
       <description>Crea il tuo Drive personale tramite un Raspberry Pi</description>
     </item>
     <item>
       <title>Un pensiero su Sanremo</title>
-      <link>https://mattiaudisio.github.io/fritto-misto/sanremo2024/</link>
+      <link>http://localhost:1313/fritto-misto/sanremo2024/</link>
       <pubDate>Sun, 11 Feb 2024 17:37:21 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/fritto-misto/sanremo2024/</guid>
+      <guid>http://localhost:1313/fritto-misto/sanremo2024/</guid>
       <description>articolo nato inizialmente come Toot su Livello Segreto</description>
     </item>
     <item>
       <title>Usare Telegram come un lettore di Feed RSS</title>
-      <link>https://mattiaudisio.github.io/fritto-misto/telegramfeedrss/</link>
+      <link>http://localhost:1313/fritto-misto/telegramfeedrss/</link>
       <pubDate>Wed, 31 Jan 2024 19:04:26 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/fritto-misto/telegramfeedrss/</guid>
+      <guid>http://localhost:1313/fritto-misto/telegramfeedrss/</guid>
       <description>Tieniti sempre aggiornato grazie a Telegram e i feed RSS</description>
     </item>
     <item>
       <title>Usare Thunderbird come backup per le mail di Gmail</title>
-      <link>https://mattiaudisio.github.io/fritto-misto/thunderbirdbackup/</link>
+      <link>http://localhost:1313/fritto-misto/thunderbirdbackup/</link>
       <pubDate>Wed, 24 Jan 2024 21:50:21 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/fritto-misto/thunderbirdbackup/</guid>
+      <guid>http://localhost:1313/fritto-misto/thunderbirdbackup/</guid>
       <description>Un modo veloce e open source di libeare spazio sulla tua mail Google</description>
     </item>
     <item>
       <title>Recensioni randomiche non richieste su Film, Serie Tv, Videogiochi</title>
-      <link>https://mattiaudisio.github.io/fritto-misto/recensioni/</link>
+      <link>http://localhost:1313/fritto-misto/recensioni/</link>
       <pubDate>Mon, 01 Jan 2024 17:31:05 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/fritto-misto/recensioni/</guid>
+      <guid>http://localhost:1313/fritto-misto/recensioni/</guid>
       <description>Un elenco non finito di recensioni randomiche che ho lascitato in giro per l&amp;#39;internet con account che ora non esistono più.</description>
     </item>
     <item>
       <title>Creare un intero podcast artificialmente</title>
-      <link>https://mattiaudisio.github.io/fritto-misto/podcastartificiales/</link>
+      <link>http://localhost:1313/fritto-misto/podcastartificiales/</link>
       <pubDate>Wed, 20 Dec 2023 21:07:49 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/fritto-misto/podcastartificiales/</guid>
+      <guid>http://localhost:1313/fritto-misto/podcastartificiales/</guid>
       <description>Anche detto: &amp;#34;mega sega mentale fatta dopo aver letto un Toot&amp;#34;</description>
     </item>
     <item>
       <title>Wrapped 2023 (anche detto il meglio del 2023)</title>
-      <link>https://mattiaudisio.github.io/fritto-misto/wrapped2023/</link>
+      <link>http://localhost:1313/fritto-misto/wrapped2023/</link>
       <pubDate>Fri, 15 Dec 2023 17:37:21 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/fritto-misto/wrapped2023/</guid>
+      <guid>http://localhost:1313/fritto-misto/wrapped2023/</guid>
       <description>Mega recap di tutte i media che ho assimilato nel mio 2023.</description>
     </item>
     <item>
       <title>Un mese di sfida.. per diminuire  lo schifo verso me stesso</title>
-      <link>https://mattiaudisio.github.io/fritto-misto/challengenovembre/</link>
+      <link>http://localhost:1313/fritto-misto/challengenovembre/</link>
       <pubDate>Fri, 01 Dec 2023 16:14:43 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/fritto-misto/challengenovembre/</guid>
+      <guid>http://localhost:1313/fritto-misto/challengenovembre/</guid>
       <description>mega recap di una sfida che ho deciso di fare</description>
     </item>
     <item>
       <title>Recensione &#34;Filosofia Giapponese, 4 libri in 1&#34;</title>
-      <link>https://mattiaudisio.github.io/fritto-misto/recensionelibro/</link>
+      <link>http://localhost:1313/fritto-misto/recensionelibro/</link>
       <pubDate>Sun, 08 Oct 2023 17:31:05 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/fritto-misto/recensionelibro/</guid>
+      <guid>http://localhost:1313/fritto-misto/recensionelibro/</guid>
       <description>Recensione di un libro fatta su Lore tempo fa</description>
     </item>
     <item>
       <title>Come rendere vivibile YouTube grazie a queste estensioni</title>
-      <link>https://mattiaudisio.github.io/fritto-misto/youtubeestensioni/</link>
+      <link>http://localhost:1313/fritto-misto/youtubeestensioni/</link>
       <pubDate>Wed, 23 Aug 2023 22:06:02 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/fritto-misto/youtubeestensioni/</guid>
+      <guid>http://localhost:1313/fritto-misto/youtubeestensioni/</guid>
       <description>Riprendiamoci il YouTube che ci piace</description>
     </item>
     <item>
       <title>Come pubblicare gratuitamente un sito web (statico o dinamico)</title>
-      <link>https://mattiaudisio.github.io/fritto-misto/pubblicaresitoweb/</link>
+      <link>http://localhost:1313/fritto-misto/pubblicaresitoweb/</link>
       <pubDate>Thu, 19 Jan 2023 21:26:12 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/fritto-misto/pubblicaresitoweb/</guid>
+      <guid>http://localhost:1313/fritto-misto/pubblicaresitoweb/</guid>
       <description>Fatto il sito? È il momento di andare online!</description>
     </item>
     <item>
       <title>Come migliorare la tua privacy online</title>
-      <link>https://mattiaudisio.github.io/fritto-misto/privacy/</link>
+      <link>http://localhost:1313/fritto-misto/privacy/</link>
       <pubDate>Tue, 01 Nov 2022 21:15:06 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/fritto-misto/privacy/</guid>
+      <guid>http://localhost:1313/fritto-misto/privacy/</guid>
       <description>Cinque semplici passi per migliorare la tua privacy online utilizzando servizi e software alternativi che tutelano i tuoi dati.</description>
     </item>
     <item>
       <title>Astro Framework Setup Tutorial</title>
-      <link>https://mattiaudisio.github.io/fritto-misto/astrosetup/</link>
+      <link>http://localhost:1313/fritto-misto/astrosetup/</link>
       <pubDate>Thu, 06 Oct 2022 20:19:50 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/fritto-misto/astrosetup/</guid>
+      <guid>http://localhost:1313/fritto-misto/astrosetup/</guid>
       <description>Come installare il framework Astro all&amp;#39;interno del tuo sito web</description>
     </item>
     <item>
       <title>Come fare un Website Blocker con Python</title>
-      <link>https://mattiaudisio.github.io/fritto-misto/websiteblocker/</link>
+      <link>http://localhost:1313/fritto-misto/websiteblocker/</link>
       <pubDate>Tue, 16 Aug 2022 22:02:53 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/fritto-misto/websiteblocker/</guid>
+      <guid>http://localhost:1313/fritto-misto/websiteblocker/</guid>
       <description>Liberati dei siti che non sopporti grazie a Python</description>
     </item>
     <item>
       <title>L&#39;angolo dei consigli</title>
-      <link>https://mattiaudisio.github.io/angolodeiconsigli/</link>
+      <link>http://localhost:1313/angolodeiconsigli/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mattiaudisio.github.io/angolodeiconsigli/</guid>
+      <guid>http://localhost:1313/angolodeiconsigli/</guid>
       <description>&lt;p&gt;Ogni tot sono solito prendermi un pò di tempo per fare pulizia sul mio profilo Mastodon, togliendo sia cose che non servono più (tipo post di aiuto perchè non trovo delle cose) che Boost che non servono più (tipo eventi fatti mesi fa).&lt;/p&gt;
 &lt;p&gt;Però, ogni tanto, capita di dover togliere alcuni toot che avevano all&amp;rsquo;interno dei link che, per qualcuno, possono essere interessanti.&lt;/p&gt;
 &lt;p&gt;Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e tutto quello che c&amp;rsquo;era sul mio profilo e che può interessare a qualcuno.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mattia Audisio</title>
-      <link>https://mattiaudisio.github.io/cv/</link>
+      <link>http://localhost:1313/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mattiaudisio.github.io/cv/</guid>
+      <guid>http://localhost:1313/cv/</guid>
       <description>&lt;p&gt;Operatore di Caf e Patronato con esperienza da Web Developer e Social Media Manager.
 Abilità nel lavorare sia in team che individualmente.
 Buona predisposizione nell&amp;rsquo;apprendimento di nuove tipologie di mansioni.&lt;/p&gt;
