@@ -53,6 +53,7 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [Cambiare Abitudini, assumere psichedelici e vivere in eterno con Valerio Rosso](https://www.youtube.com/watch?v=kDmyLg_0-Eo)
 - [Disintossicarsi dai social network si può! | Marco Tomasin | TEDxMantova Youth](https://www.youtube.com/watch?v=e0wN-baPVb0)
 - [VIVO PER 24h CON UN HACKER! Lorenzo Faletra, hacking, parrot opere e passioni!](https://youtu.be/giSo1-lQoWk?feature=shared)
+- [L'AI Vi Sostituirà? Lo ha gia' fatto, ma non in senso lavorativo.](https://keinpfusch.net/lai-vi-sostituira)
 
 ## 🎶 Musica (Songworm)
  
