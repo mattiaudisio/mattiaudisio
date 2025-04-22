@@ -1,7 +1,7 @@
 baseurl: "https://mattiaudisio.github.io/"
 languageCode: it-it
 title: Mattia Audisio
-paginate: 5
+pagination.pagerSize: 5
 theme: PaperMod
 
 enableRobotsTXT: true
