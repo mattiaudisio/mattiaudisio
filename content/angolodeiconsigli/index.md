@@ -54,6 +54,7 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [Disintossicarsi dai social network si può! | Marco Tomasin | TEDxMantova Youth](https://www.youtube.com/watch?v=e0wN-baPVb0)
 - [VIVO PER 24h CON UN HACKER! Lorenzo Faletra, hacking, parrot opere e passioni!](https://youtu.be/giSo1-lQoWk?feature=shared)
 - [L'AI Vi Sostituirà? Lo ha gia' fatto, ma non in senso lavorativo.](https://keinpfusch.net/lai-vi-sostituira)
+- [Finanza: siete sicuri di voler andare in FIRE?](https://www.youtube.com/watch?v=qaSPLcvI57s)
 
 ## 🎶 Musica (Songworm)
  
