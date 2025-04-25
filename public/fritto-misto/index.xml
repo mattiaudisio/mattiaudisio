@@ -6,8 +6,15 @@
     <description>Recent content in Fritto Misto (Ovvero il mio blog) on Mattia Audisio</description>
     <generator>Hugo -- 0.134.3</generator>
     <language>it-it</language>
-    <lastBuildDate>Fri, 18 Apr 2025 22:53:54 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 25 Apr 2025 21:44:20 +0200</lastBuildDate>
     <atom:link href="https://mattiaudisio.github.io/fritto-misto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Utenti IOS! Basta Bloatware! Vivi l&#39;Ascolto Podcast Essenziale con App Open Source</title>
+      <link>https://mattiaudisio.github.io/fritto-misto/podcast-ios/</link>
+      <pubDate>Fri, 25 Apr 2025 21:44:20 +0200</pubDate>
+      <guid>https://mattiaudisio.github.io/fritto-misto/podcast-ios/</guid>
+      <description>Questo è un test. Il contenuto è interessante. La forma un pò meno</description>
+    </item>
     <item>
       <title>Implementare le API di Google Calendar sul tuo sito Laravel</title>
       <link>https://mattiaudisio.github.io/fritto-misto/laravel-calendar-api/</link>
