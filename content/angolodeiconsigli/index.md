@@ -90,6 +90,8 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [Turn Android Phone to Batteryless Home Server](https://crackoverflow.com/docs/system_administration/containerization/turn_android_phone_to_batteryless_home_server/)
 - [A new plan](https://minutestomidnight.co.uk/blog/a-new-plan/)
 - [SIAMO MALATI - Meccanopatia](https://www.ilblast.it/siamo-malati/)
+- [Armageddon Automatico](https://www.ilblast.it/intelligenze-automatiche-armageddon-automatico/)
+- [Nel dubbio scappo dalla realtà](https://www.ilblast.it/nel-dubbio-scappo-dalla-realta/)
 
 ## 🔗 Siti web
 
