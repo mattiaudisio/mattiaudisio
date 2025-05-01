@@ -22,8 +22,8 @@ params:
   # author: ["Me", "You"] # multiple authors
   #images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
-  disableThemeToggle: false
+  defaultTheme: dark # dark, light
+  disableThemeToggle: true
 
   ShowReadingTime: true
   ShowPostNavLinks: true
@@ -123,6 +123,10 @@ menu:
     - identifier: Fritto misto
       name: Fritto misto
       url: /fritto-misto/
+      weight: 2
+    - identifier: Portfolio
+      name: Photo portfolio
+      url: /portfolio/
       weight: 2
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true

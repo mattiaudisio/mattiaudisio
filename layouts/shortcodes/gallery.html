@@ -1,0 +1,34 @@
+<div class="gallery">
+    {{ range .Params.images }}
+      <div class="gallery-item">
+        <img 
+        src="{{ .url }}"
+        loading="lazy" 
+        width="300" 
+        height="200" />
+        <!-- <p class="caption">{{ .caption }}</p> -->
+      </div>
+    {{ end }}
+  </div>
+  
+  <style>
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 16px;
+    }
+    .gallery-item {
+      text-align: center;
+    }
+    .gallery-item img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 8px;
+    }
+    .caption {
+      margin-top: 8px;
+      font-size: 14px;
+      color: #555;
+    }
+  </style>
+  
