@@ -46,7 +46,7 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [VOMITARE su SESSO, SOLDI E SUCCESSO è una FIGATA](https://www.youtube.com/watch?v=vBboKhKo0w4)
 - [Virgin Social Media vs. Chad RSS](https://www.youtube.com/watch?v=hMH9w6pyzvU)
 - [SPITTIN FACTS sul CAMBIARE VITA](https://www.youtube.com/watch?v=dABlhdgJn9c)
-- [18K PARLA DI RAP, VIDEOGIOCHI E LAVORI BRUTTI](https://youtu.be/vMesSdPERmY?feature=shared) (Maledetti bastardi che hanno messo l'intero su Patreon)
+- [18K PARLA DI RAP, VIDEOGIOCHI E LAVORI BRUTTI](https://youtu.be/vMesSdPERmY?feature=shared)
 - [What's The Problem? - Demystifying why we all need Bitcoin - Joe Bryan](https://youtu.be/YtFOxNbmD38?feature=shared)
 - [IL MARKETING ti sta ROVINANDO la VITA](https://youtu.be/UJwl-7mImFE?feature=shared)
 - [Come Imparo? 📚 tutte le mie fonti](https://youtu.be/RoV9RN1v-_Q?feature=shared)
@@ -55,6 +55,9 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [VIVO PER 24h CON UN HACKER! Lorenzo Faletra, hacking, parrot opere e passioni!](https://youtu.be/giSo1-lQoWk?feature=shared)
 - [L'AI Vi Sostituirà? Lo ha gia' fatto, ma non in senso lavorativo.](https://keinpfusch.net/lai-vi-sostituira)
 - [Finanza: siete sicuri di voler andare in FIRE?](https://www.youtube.com/watch?v=qaSPLcvI57s)
+- [COS'È LA VAPORWAVE?](https://youtu.be/k_XxH-N8SIM?feature=shared)
+- [Cos'è la musica LOFI?](https://youtu.be/k8WMzG51kyE?feature=shared)
+- [Che cos'è il CYBERPUNK?](https://youtu.be/fWF176hIUrM?feature=shared)
 
 ## 🎶 Musica (Songworm)
  
