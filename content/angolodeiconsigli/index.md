@@ -58,6 +58,9 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [COS'È LA VAPORWAVE?](https://youtu.be/k_XxH-N8SIM?feature=shared)
 - [Cos'è la musica LOFI?](https://youtu.be/k8WMzG51kyE?feature=shared)
 - [Che cos'è il CYBERPUNK?](https://youtu.be/fWF176hIUrM?feature=shared)
+- [Apple: It's Good If You Like CRAP](https://youtu.be/MKJjLwMUPJI?feature=shared)
+- [How to DeGoogle Your Phone](https://youtu.be/W4o4LVBPMrw?feature=shared)
+- [Building Better Digital Habits](https://youtu.be/JYCRbND-y10?feature=shared)
 
 ## 🎶 Musica (Songworm)
  
