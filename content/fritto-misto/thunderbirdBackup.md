@@ -34,3 +34,31 @@ Per aggiungere i file mbox a Thunderbird ci servirà un estensione, ImportExport
 Dopo averlo scaricato, basterà cliccare su **Cartelle locali** (Che trovi sotto le mail), anda re su ImportExportTools NG e, all'interno del menù a tendina che si apre, selezionare **importa file mbox**, dove potrete selezionare il vostro file MBOX.
 
 Fatto questo bisognerà aspettare Thunderbird che scarichi e sincronizzi il tutto (ci vorranno un paio di minuti) e voilà, ecco un bel backup in locale di tutte le vostre mail!
+
+
+## Update (14 maggio 2025)
+
+Dopo più di un anno rimetto mano a questo articolo per aggiungere una funzione che può tornare utile.
+
+Per chi come me ha Proton Mail gratutito sa che non è possibile collegarlo a thunderbird (o almeno... sì ma con dei giri strani, che ho provato a fare, ma che alla fine mi obbligavano sempre a fare l'upgrade del profilo), ma finalmente ho trovato due soluzioni, facili e veloci, utilizzando gli EML. Questi due metodi richiedono solo una premessa: bisogna scaricarsi gli EML a mano (Da Proton, vai sulla mail desiderata, _clicca sui 3 puntini_, clicca su _Esporta_). È un processo lungo, ma è doveroso per quello che segue.
+
+**Metodo 1: Script da Terminale**
+
+Se utilizzi Linux o macOS, puoi usare un semplice script da terminale per unire i file EML in un file MBOX:
+
+```
+for e in *.eml
+do
+  date +"From - %a %b %d %H:%M:%S %Y" >> file.mbox
+  cat "$e" >> file.mbox
+  echo >> file.mbox
+done
+```
+
+Assicurati che nella directory non esista già un file chiamato `file.mbox` prima di eseguire lo script. Questo comando aggiunge ogni file EML al file MBOX, separandoli correttamente.
+
+**Metodo 2: direttamente da Thunderbird**
+
+Vai su thunderbird e crea una nuova cartella, seleziona _ImportExportTools NG_ > _Importa file EML_ e scegli i file da importare.
+
+Dopo aver importato i messaggi, fai clic destro sulla cartella, seleziona _ImportExportTools NG_ > _Esporta cartella_ e salva il file MBOX.
