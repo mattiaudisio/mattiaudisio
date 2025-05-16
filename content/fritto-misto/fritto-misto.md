@@ -1,7 +1,7 @@
 ---
 title: "Fritto Misto tra le rovine"
 date: 2025-02-24T23:00:27+01:00
-tags: ['📔 Senza Meta']
+tags: ['📔 Senza Meta', '☁️ Fritto Misto']
 ShowWordCount: false
 hideAuthor: true
 ShowPostNavLinks: false

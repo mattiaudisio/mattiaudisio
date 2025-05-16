@@ -4,7 +4,11 @@ date:
 slug: cv
 category:
 summary:
+ShowWordCount: false
+hideAuthor: true
 description:
+ShowShareButtons: false
+ShowPostNavLinks: false
 showtoc: false
 ---
 

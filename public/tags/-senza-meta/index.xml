@@ -2,81 +2,90 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>📔 Senza Meta on Mattia Audisio</title>
-    <link>http://localhost:1313/tags/-senza-meta/</link>
+    <link>https://mattiaudisio.github.io/tags/-senza-meta/</link>
     <description>Recent content in 📔 Senza Meta on Mattia Audisio</description>
     <generator>Hugo -- 0.134.3</generator>
     <language>it-it</language>
     <lastBuildDate>Tue, 15 Apr 2025 23:15:08 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/-senza-meta/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattiaudisio.github.io/tags/-senza-meta/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pillole tascabili altamente inutili sull&#39;emo</title>
-      <link>http://localhost:1313/fritto-misto/emocore/</link>
+      <link>https://mattiaudisio.github.io/fritto-misto/emocore/</link>
       <pubDate>Tue, 15 Apr 2025 23:15:08 +0200</pubDate>
-      <guid>http://localhost:1313/fritto-misto/emocore/</guid>
+      <guid>https://mattiaudisio.github.io/fritto-misto/emocore/</guid>
       <description>Una serie di informazioni che ho ricavato per un progetto ormai concluso</description>
     </item>
     <item>
       <title>Fritto Misto tra le rovine</title>
-      <link>http://localhost:1313/fritto-misto/fritto-misto/</link>
+      <link>https://mattiaudisio.github.io/fritto-misto/fritto-misto/</link>
       <pubDate>Mon, 24 Feb 2025 23:00:27 +0100</pubDate>
-      <guid>http://localhost:1313/fritto-misto/fritto-misto/</guid>
+      <guid>https://mattiaudisio.github.io/fritto-misto/fritto-misto/</guid>
       <description>In mezzi ai grattaceli e le rovine che rappresentano tutto quello che mi succede nella vita, proviamo a fare un fritto misto con quello che troviamo</description>
     </item>
     <item>
       <title>Wrapped 2024</title>
-      <link>http://localhost:1313/fritto-misto/wrapped2024/</link>
+      <link>https://mattiaudisio.github.io/fritto-misto/wrapped2024/</link>
       <pubDate>Fri, 27 Dec 2024 18:37:21 +0200</pubDate>
-      <guid>http://localhost:1313/fritto-misto/wrapped2024/</guid>
+      <guid>https://mattiaudisio.github.io/fritto-misto/wrapped2024/</guid>
       <description>Mega recap di tutte i media che ho assimilato nel mio 2024.</description>
     </item>
     <item>
       <title>Pensiero partorito dopo la visione di Deadpool &amp; Wolverine</title>
-      <link>http://localhost:1313/fritto-misto/pensierodopodeadpoolandwolverine/</link>
+      <link>https://mattiaudisio.github.io/fritto-misto/pensierodopodeadpoolandwolverine/</link>
       <pubDate>Mon, 29 Jul 2024 23:54:55 +0200</pubDate>
-      <guid>http://localhost:1313/fritto-misto/pensierodopodeadpoolandwolverine/</guid>
+      <guid>https://mattiaudisio.github.io/fritto-misto/pensierodopodeadpoolandwolverine/</guid>
       <description>Articolo nato da un memo vocale fatto il 29 luglio 2024 dopo aver visto il film al cinema</description>
     </item>
     <item>
       <title>Considerazione nata dopo la visione di &#34;Il regno del pianeta delle scimmie&#34;</title>
-      <link>http://localhost:1313/fritto-misto/pensieripianetadellescimmie/</link>
+      <link>https://mattiaudisio.github.io/fritto-misto/pensieripianetadellescimmie/</link>
       <pubDate>Tue, 14 May 2024 17:31:05 +0200</pubDate>
-      <guid>http://localhost:1313/fritto-misto/pensieripianetadellescimmie/</guid>
+      <guid>https://mattiaudisio.github.io/fritto-misto/pensieripianetadellescimmie/</guid>
       <description>Articolo nato da un memo vocale fatto il 13 maggio 2024 dopo aver visto il film al cinema</description>
     </item>
     <item>
       <title>Un pensiero su Sanremo</title>
-      <link>http://localhost:1313/fritto-misto/sanremo2024/</link>
+      <link>https://mattiaudisio.github.io/fritto-misto/sanremo2024/</link>
       <pubDate>Sun, 11 Feb 2024 17:37:21 +0200</pubDate>
-      <guid>http://localhost:1313/fritto-misto/sanremo2024/</guid>
+      <guid>https://mattiaudisio.github.io/fritto-misto/sanremo2024/</guid>
       <description>articolo nato inizialmente come Toot su Livello Segreto</description>
     </item>
     <item>
       <title>Recensioni randomiche non richieste su Film, Serie Tv, Videogiochi</title>
-      <link>http://localhost:1313/fritto-misto/recensioni/</link>
+      <link>https://mattiaudisio.github.io/fritto-misto/recensioni/</link>
       <pubDate>Mon, 01 Jan 2024 17:31:05 +0200</pubDate>
-      <guid>http://localhost:1313/fritto-misto/recensioni/</guid>
+      <guid>https://mattiaudisio.github.io/fritto-misto/recensioni/</guid>
       <description>Un elenco non finito di recensioni randomiche che ho lascitato in giro per l&amp;#39;internet con account che ora non esistono più.</description>
     </item>
     <item>
       <title>Wrapped 2023 (anche detto il meglio del 2023)</title>
-      <link>http://localhost:1313/fritto-misto/wrapped2023/</link>
+      <link>https://mattiaudisio.github.io/fritto-misto/wrapped2023/</link>
       <pubDate>Fri, 15 Dec 2023 17:37:21 +0200</pubDate>
-      <guid>http://localhost:1313/fritto-misto/wrapped2023/</guid>
+      <guid>https://mattiaudisio.github.io/fritto-misto/wrapped2023/</guid>
       <description>Mega recap di tutte i media che ho assimilato nel mio 2023.</description>
     </item>
     <item>
       <title>Un mese di sfida.. per diminuire  lo schifo verso me stesso</title>
-      <link>http://localhost:1313/fritto-misto/challengenovembre/</link>
+      <link>https://mattiaudisio.github.io/fritto-misto/challengenovembre/</link>
       <pubDate>Fri, 01 Dec 2023 16:14:43 +0200</pubDate>
-      <guid>http://localhost:1313/fritto-misto/challengenovembre/</guid>
+      <guid>https://mattiaudisio.github.io/fritto-misto/challengenovembre/</guid>
       <description>mega recap di una sfida che ho deciso di fare</description>
     </item>
     <item>
       <title>Recensione &#34;Filosofia Giapponese, 4 libri in 1&#34;</title>
-      <link>http://localhost:1313/fritto-misto/recensionelibro/</link>
+      <link>https://mattiaudisio.github.io/fritto-misto/recensionelibro/</link>
       <pubDate>Sun, 08 Oct 2023 17:31:05 +0200</pubDate>
-      <guid>http://localhost:1313/fritto-misto/recensionelibro/</guid>
+      <guid>https://mattiaudisio.github.io/fritto-misto/recensionelibro/</guid>
       <description>Recensione di un libro fatta su Lore tempo fa</description>
+    </item>
+    <item>
+      <title>L&#39;angolo dei consigli</title>
+      <link>https://mattiaudisio.github.io/angolodeiconsigli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mattiaudisio.github.io/angolodeiconsigli/</guid>
+      <description>&lt;p&gt;Ogni tot sono solito prendermi un pò di tempo per fare pulizia sul mio profilo Mastodon, togliendo sia cose che non servono più (tipo post di aiuto perchè non trovo delle cose) che Boost che non servono più (tipo eventi fatti mesi fa).&lt;/p&gt;
+&lt;p&gt;Però, ogni tanto, capita di dover togliere alcuni toot che avevano all&amp;rsquo;interno dei link che, per qualcuno, possono essere interessanti.&lt;/p&gt;
+&lt;p&gt;Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e tutto quello che c&amp;rsquo;era sul mio profilo e che può interessare a qualcuno.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

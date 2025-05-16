@@ -116,18 +116,22 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: CV
+      name: CV
+      url: /cv/
+      weight: 1
     - identifier: Progetti
       name: Progetti
       url: /project/
-      weight: 1
+      weight: 2
     - identifier: Fritto misto
       name: Fritto misto
       url: /fritto-misto/
-      weight: 2
+      weight: 3
     - identifier: Portfolio
       name: Photo portfolio
       url: /portfolio/
-      weight: 2
+      weight: 4
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:

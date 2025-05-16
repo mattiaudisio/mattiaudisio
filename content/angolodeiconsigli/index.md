@@ -5,6 +5,7 @@ hideAuthor: true
 ShowReadingTime: false
 ShowShareButtons: false
 hideMeta: true
+tags: ['📔 Senza Meta', '☁️ Fritto Misto']
 ShowBreadCrumbs: false
 disableShare: true
 ---
