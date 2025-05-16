@@ -1,6 +1,6 @@
 ---
 title: 'Appunti da un diario digitale'
-date: 2025-05-16T15:18+02:00
+date: 2025-05-16T15:00+02:00
 tags: ['👨‍💻 Echo 404', '☁️ Fritto Misto']
 ShowWordCount: false
 hideAuthor: true
