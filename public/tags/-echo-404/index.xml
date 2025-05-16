@@ -6,15 +6,8 @@
     <description>Recent content in 👨‍💻 Echo 404 on Mattia Audisio</description>
     <generator>Hugo -- 0.134.3</generator>
     <language>it-it</language>
-    <lastBuildDate>Wed, 14 May 2025 21:50:21 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 25 Apr 2025 21:44:20 +0200</lastBuildDate>
     <atom:link href="https://mattiaudisio.github.io/tags/-echo-404/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Appunti da un diario digitale</title>
-      <link>https://mattiaudisio.github.io/fritto-misto/resocontodigitale/</link>
-      <pubDate>Wed, 14 May 2025 21:50:21 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/fritto-misto/resocontodigitale/</guid>
-      <description>un resoconto veloce e scarabocchiato legato alle cose fatte nel mondo tech</description>
-    </item>
     <item>
       <title>Utenti IOS! Basta Bloatware! Vivi l&#39;Ascolto Podcast Essenziale con App Open Source</title>
       <link>https://mattiaudisio.github.io/fritto-misto/podcast-ios/</link>
@@ -126,6 +119,13 @@
       <pubDate>Tue, 16 Aug 2022 22:02:53 +0200</pubDate>
       <guid>https://mattiaudisio.github.io/fritto-misto/websiteblocker/</guid>
       <description>Liberati dei siti che non sopporti grazie a Python</description>
+    </item>
+    <item>
+      <title>Appunti da un diario digitale</title>
+      <link>https://mattiaudisio.github.io/fritto-misto/resocontodigitale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mattiaudisio.github.io/fritto-misto/resocontodigitale/</guid>
+      <description>un resoconto veloce e scarabocchiato legato alle cose fatte nel mondo tech</description>
     </item>
   </channel>
 </rss>

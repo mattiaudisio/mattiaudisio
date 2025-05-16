@@ -1,6 +1,6 @@
 ---
 title: 'Appunti da un diario digitale'
-date: 2025-05-14T21:50:21+02:00
+date: 2025-05-16:10:21+02:00
 tags: ['👨‍💻 Echo 404', '☁️ Fritto Misto']
 ShowWordCount: false
 hideAuthor: true
@@ -12,7 +12,7 @@ ShowShareButtons: true
 
 Ho rimesso mano a [questo articolo](/fritto-misto/thunderbirdBackup) dopo aver scoperto come ripulire il mio account Proton gratuito.
 
-Per esigenze preferisco avere i miei backup su Thunderbird e, per mio sfortuna, Proton non permette di collegarti a Thunderbird se non hai un account PRO. Dopo un attimo di ricerca ho trovato il modo di fare quello che volevo grazie alla possibilità che ti dà Proton di scaricare le mail in formato .EML. 
+Per esigenze preferisco avere i miei backup su Thunderbird e, per mia sfortuna, Proton non permette di collegarti a Thunderbird se non hai un account PRO. Dopo un attimo di ricerca ho trovato il modo di fare quello che volevo grazie alla possibilità che ti dà Proton di scaricare le mail in formato .EML. 
 
 Il processo è un pò lungo, però mi posso accollare i minuti buttati a scaricare mail.
 
@@ -33,6 +33,8 @@ Per il lato Podcast, nonostante abbia un iPhone, sono riuscito a trovare un app 
 Sopra ci protete trovare tutti i podcast hostati su Itunes e, se volete, potete aggiungerne anche voi via feed RSS. L'unica cosa che un pò mi da fastidio è che, se non metti te gli episodi in coda, appena finisce un episodio non fa partire l'altro ma, come detto prima, si risolve facilmente mettendo in coda gli episodi successivi.
 
 Ad oggi, data di uscita di questo articolo, i podcast che sto ascoltando sono: [Fandemonio](https://podcasts.apple.com/us/podcast/fandemonio/id1765325279), [Il podcast di Matteo Gracis](https://podcasts.apple.com/us/podcast/il-podcast-di-matteo-gracis/id1801997533), [La tua sovranità digitale](https://podcasts.apple.com/us/podcast/la-tua-sovranit%C3%A0-digitale/id1723017461), [More Touchy Show](https://podcasts.apple.com/us/podcast/more-touchy-show/id1772574222), [Tilde](https://podcasts.apple.com/us/podcast/tilde/id1543929965), [Das Böse Büro](https://keinpfusch.net/podcast).
+
+Lato musica, invece, sto cercando di utilizzare il poco spazio libero che sul telefono per caricare più pezzi possibili da tenermi in locale. In futuro vedrò poi come fare.
 
 ---
 
