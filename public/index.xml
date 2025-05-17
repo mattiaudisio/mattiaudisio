@@ -6,8 +6,15 @@
     <description>Recent content on Mattia Audisio</description>
     <generator>Hugo -- 0.134.3</generator>
     <language>it-it</language>
-    <lastBuildDate>Fri, 25 Apr 2025 21:44:20 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 16 May 2025 15:39:40 +0200</lastBuildDate>
     <atom:link href="https://mattiaudisio.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Appunti da un diario digitale</title>
+      <link>https://mattiaudisio.github.io/fritto-misto/resocontodigitale/</link>
+      <pubDate>Fri, 16 May 2025 15:39:40 +0200</pubDate>
+      <guid>https://mattiaudisio.github.io/fritto-misto/resocontodigitale/</guid>
+      <description>un resoconto veloce e scarabocchiato legato alle cose fatte nel mondo tech</description>
+    </item>
     <item>
       <title>Utenti IOS! Basta Bloatware! Vivi l&#39;Ascolto Podcast Essenziale con App Open Source</title>
       <link>https://mattiaudisio.github.io/fritto-misto/podcast-ios/</link>
@@ -246,11 +253,16 @@
       <description>Liberati dei siti che non sopporti grazie a Python</description>
     </item>
     <item>
-      <title>Appunti da un diario digitale</title>
-      <link>https://mattiaudisio.github.io/fritto-misto/resocontodigitale/</link>
+      <title>I programmi che uso</title>
+      <link>https://mattiaudisio.github.io/programs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mattiaudisio.github.io/fritto-misto/resocontodigitale/</guid>
-      <description>un resoconto veloce e scarabocchiato legato alle cose fatte nel mondo tech</description>
+      <guid>https://mattiaudisio.github.io/programs/</guid>
+      <description>&lt;p&gt;Un elenco delle apparecchiature e dei software che utilizzo.&lt;/p&gt;
+&lt;h2 id=&#34;software-che-uso&#34;&gt;Software che uso&lt;/h2&gt;
+&lt;h3 id=&#34;computer-principale&#34;&gt;Computer principale&lt;/h3&gt;
+&lt;p&gt;Il mio computer principale, ovvero quello che uso di più e per tutto, è un portatile &lt;a href=&#34;https://www.acer.com/us-en/laptops/aspire/aspire-5-intel&#34;&gt;Acer Aspire 5&lt;/a&gt; con AMD Ryzen 7.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sistema Operativo&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Utilizzo un linux Mint &lt;a href=&#34;https://mattiaudisio.github.io/fritto-misto/customlinuxmint/&#34;&gt;customizzato&lt;/a&gt; come OS principale da ormai un annetto. Non è ancora modificato al 100% secondo le mie esigenze (che sono molto volatili ultimamente) ma per ora fa quello che deve fare quando lo deve fare. Più avanti piano piano lo migliorerò. Per ora terminale, shell, file manager sono quelli di sistema che ci sono al primo avvio di Mint. Nulla toglie che in futuro posso decidere di cambiarli (rompendo ulteriormente tutto).&lt;/p&gt;</description>
     </item>
     <item>
       <title>L&#39;angolo dei consigli</title>
