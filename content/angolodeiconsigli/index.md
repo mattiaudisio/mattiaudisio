@@ -62,6 +62,7 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [Apple: It's Good If You Like CRAP](https://youtu.be/MKJjLwMUPJI?feature=shared)
 - [How to DeGoogle Your Phone](https://youtu.be/W4o4LVBPMrw?feature=shared)
 - [Building Better Digital Habits](https://youtu.be/JYCRbND-y10?feature=shared)
+- [SMETTI di comprare GIOCHI](https://www.youtube.com/watch?v=ff6vY0SMsT0)
 
 ## 🎶 Musica (Songworm)
  
