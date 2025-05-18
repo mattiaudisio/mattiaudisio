@@ -100,6 +100,7 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [SIAMO MALATI - Meccanopatia](https://www.ilblast.it/siamo-malati/)
 - [Armageddon Automatico](https://www.ilblast.it/intelligenze-automatiche-armageddon-automatico/)
 - [Nel dubbio scappo dalla realtà](https://www.ilblast.it/nel-dubbio-scappo-dalla-realta/)
+- [Chatbot e documenti](https://prealpinux.com/2025/05/18/chatbot-e-documenti.html)
 
 ## 🔗 Siti web
 
