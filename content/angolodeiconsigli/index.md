@@ -101,6 +101,7 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [Armageddon Automatico](https://www.ilblast.it/intelligenze-automatiche-armageddon-automatico/)
 - [Nel dubbio scappo dalla realtà](https://www.ilblast.it/nel-dubbio-scappo-dalla-realta/)
 - [Chatbot e documenti](https://prealpinux.com/2025/05/18/chatbot-e-documenti.html)
+- [SCHIZO teorie e MEMETICA. Come si fa la guerriglia dentro la capoccia. feat. IL BLAST](https://youtu.be/LMgUZhnz2ys?feature=shared)
 
 ## 🔗 Siti web
 
