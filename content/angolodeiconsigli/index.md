@@ -63,6 +63,7 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [How to DeGoogle Your Phone](https://youtu.be/W4o4LVBPMrw?feature=shared)
 - [Building Better Digital Habits](https://youtu.be/JYCRbND-y10?feature=shared)
 - [SMETTI di comprare GIOCHI](https://www.youtube.com/watch?v=ff6vY0SMsT0)
+- [SCHIZO teorie e MEMETICA. Come si fa la guerriglia dentro la capoccia. feat. IL BLAST](https://youtu.be/LMgUZhnz2ys?feature=shared)
 
 ## 🎶 Musica (Songworm)
  
@@ -101,7 +102,7 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [Armageddon Automatico](https://www.ilblast.it/intelligenze-automatiche-armageddon-automatico/)
 - [Nel dubbio scappo dalla realtà](https://www.ilblast.it/nel-dubbio-scappo-dalla-realta/)
 - [Chatbot e documenti](https://prealpinux.com/2025/05/18/chatbot-e-documenti.html)
-- [SCHIZO teorie e MEMETICA. Come si fa la guerriglia dentro la capoccia. feat. IL BLAST](https://youtu.be/LMgUZhnz2ys?feature=shared)
+- [Why Your Homelab Needs a Domain](https://www.howtogeek.com/why-your-homelab-needs-a-domain/)
 
 ## 🔗 Siti web
 
@@ -120,3 +121,4 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [Substreamer su AppStore](https://apps.apple.com/us/app/substreamer/id1012991665) ([View](https://livellosegreto.it/@ed/112569861837301736))
 - [Shai Network](https://shainetwork.org/sito/)
 - [federicko](https://federicko.neocities.org/)
+- [Just fucking use HTML](https://justfuckingusehtml.com/)
