@@ -37,6 +37,7 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [10 modi per difendersi dalle strategie di controllo](https://youtu.be/9QxcaT6PQN8?feature=shared)
 - [s x rr x land](https://youtu.be/M3fVfgqpHNs?feature=shared)
 - [più domande che unboxing](https://youtu.be/FnTGLplJnnU?feature=shared)
+- [questo non è un video unboxing.](https://youtu.be/zZho6q1rYTc?feature=shared)
 - [come faccio a viaggiare per lavoro](https://youtu.be/_PUKSD8cyWo?feature=shared)
 - [Una vita senza Big Tech, storie di chi cerca alternative ai giganti del web](https://peertube.uno/w/pYg7GhMR4gBmx6TCWfqRAt)
 - [18k](https://youtu.be/zcLcx2fQ4V0?feature=shared)
