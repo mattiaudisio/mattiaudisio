@@ -1,7 +1,7 @@
 ---
 title: 'Come pubblicare gratuitamente un sito web (statico o dinamico)'
 date: 2023-01-19T21:26:12+02:00
-tags: ['👨‍💻 Echo 404']
+tags: ['👨‍💻 Echo 404', '👨‍💻 Web development']
 ShowWordCount: false
 hideAuthor: true
 ShowPostNavLinks: false

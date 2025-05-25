@@ -1,7 +1,7 @@
 ---
 title: "Rendere il tuo telefono ＦＯＳＳ　往いぞ"
 date: 2024-04-14T20:12:07+02:00
-tags: ['👨‍💻 Echo 404']
+tags: ['👨‍💻 Echo 404', '📱 Telefono', '📱 Android']
 ShowWordCount: false
 hideAuthor: true
 ShowPostNavLinks: false

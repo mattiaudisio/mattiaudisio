@@ -1,7 +1,7 @@
 ---
 title: "Come realizzare un sito web da vero soydevs"
 date: 2024-09-18T17:08:17+02:00
-tags: ['👨‍💻 Echo 404']
+tags: ['👨‍💻 Echo 404','👨‍💻 Web development','👨‍💻 Node.JS']
 ShowWordCount: false
 hideAuthor: true
 ShowPostNavLinks: false

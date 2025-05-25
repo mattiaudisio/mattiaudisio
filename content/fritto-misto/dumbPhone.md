@@ -1,7 +1,7 @@
 ---
 title: "Come realizzare un moderno Dumbphone"
 date: 2024-08-10T10:15:08+02:00
-tags: ['👨‍💻 Echo 404']
+tags: ['👨‍💻 Echo 404', '📱 Telefono', '📱 Android', '📱 iPhone', '👨‍💻 Minimalismo tecnologico']
 ShowWordCount: false
 hideAuthor: true
 ShowPostNavLinks: false

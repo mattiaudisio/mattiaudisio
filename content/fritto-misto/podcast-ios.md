@@ -1,7 +1,7 @@
 ---
 title: "Utenti IOS! Basta Bloatware! Vivi l'Ascolto Podcast Essenziale con App Open Source"
 date: 2025-04-25T21:44:20+02:00
-tags: ['👨‍💻 Echo 404']
+tags: ['👨‍💻 Echo 404', '📱 Telefono', '👨‍💻 privacy', '📱 iPhone', '👨‍💻 Minimalismo tecnologico']
 ShowWordCount: false
 hideAuthor: true
 ShowPostNavLinks: false

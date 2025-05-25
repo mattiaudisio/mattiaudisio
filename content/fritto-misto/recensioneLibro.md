@@ -1,7 +1,7 @@
 ---
 title: 'Recensione "Filosofia Giapponese, 4 libri in 1"'
 date: 2023-10-08T17:31:05+02:00
-tags: ['📔 Senza Meta']
+tags: ['📔 Senza Meta','📔 Libri']
 ShowWordCount: false
 hideAuthor: true
 ShowPostNavLinks: false

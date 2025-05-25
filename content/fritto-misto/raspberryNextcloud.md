@@ -1,7 +1,7 @@
 ---
 title: 'Come ho installato Nextcloud su un Raspberry Pi 3'
 date: 2024-04-14T19:32:17+02:00
-tags: ['👨‍💻 Echo 404']
+tags: ['👨‍💻 Echo 404', '👨‍💻 selfhosting', '👨‍💻 privacy']
 ShowWordCount: false
 hideAuthor: true
 ShowPostNavLinks: false

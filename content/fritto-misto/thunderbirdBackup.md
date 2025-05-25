@@ -1,7 +1,7 @@
 ---
 title: 'Usare Thunderbird come backup per le mail di Gmail'
 date: 2024-01-24T21:50:21+02:00
-tags: ['👨‍💻 Echo 404']
+tags: ['👨‍💻 Echo 404', '👨‍💻 privacy']
 ShowWordCount: false
 hideAuthor: true
 ShowPostNavLinks: false

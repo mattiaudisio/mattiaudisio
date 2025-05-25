@@ -1,7 +1,7 @@
 ---
 title: 'Come fare un Website Blocker con Python'
 date: 2022-08-16T22:02:53+02:00
-tags: ['👨‍💻 Echo 404']
+tags: ['👨‍💻 Echo 404', '👨‍💻 Python']
 ShowWordCount: false
 hideAuthor: true
 ShowPostNavLinks: false

@@ -1,7 +1,7 @@
 ---
 title: 'Come ho installato localmente invidious'
 date: 2024-06-03T21:02:25+02:00
-tags: ['👨‍💻 Echo 404']
+tags: ['👨‍💻 Echo 404', '👨‍💻 selfhosting', '👨‍💻 privacy']
 ShowWordCount: false
 hideAuthor: true
 ShowPostNavLinks: false

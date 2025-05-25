@@ -1,7 +1,7 @@
 ---
 title: 'Astro Framework Setup Tutorial'
 date: 2022-10-06T20:19:50+02:00
-tags: ['👨‍💻 Echo 404']
+tags: ['👨‍💻 Echo 404', '👨‍💻 Web development', '👨‍💻 AstroJS']
 ShowWordCount: false
 hideAuthor: true
 ShowPostNavLinks: false

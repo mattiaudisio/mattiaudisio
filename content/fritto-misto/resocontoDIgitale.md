@@ -1,7 +1,7 @@
 ---
 title: 'Appunti da un diario digitale'
 date: 2025-05-16T15:39:40+02:00
-tags: ['👨‍💻 Echo 404', '☁️ Fritto Misto']
+tags: ['👨‍💻 Echo 404', '☁️ Fritto Misto', '👨‍💻 Linux']
 ShowWordCount: false
 hideAuthor: true
 ShowPostNavLinks: false

@@ -1,7 +1,7 @@
 ---
 title: "Pensiero partorito dopo la visione di Deadpool & Wolverine"
 date: 2024-07-29T23:54:55+02:00
-tags: ['📔 Senza Meta']
+tags: ['📔 Senza Meta','🎞️ Film']
 ShowWordCount: false
 hideAuthor: true
 ShowPostNavLinks: false

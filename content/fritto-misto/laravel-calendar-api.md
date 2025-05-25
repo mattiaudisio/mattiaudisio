@@ -1,7 +1,7 @@
 ---
 title: "Implementare le API di Google Calendar sul tuo sito Laravel"
 date: 2025-04-18T22:53:54+02:00
-tags: ['👨‍💻 Echo 404']
+tags: ['👨‍💻 Echo 404','👨‍💻 Laravel','👨‍💻 Web development']
 ShowWordCount: false
 hideAuthor: true
 ShowPostNavLinks: false

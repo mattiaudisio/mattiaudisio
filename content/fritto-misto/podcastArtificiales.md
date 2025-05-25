@@ -1,7 +1,7 @@
 ---
 title: 'Creare un intero podcast artificialmente'
 date: 2023-12-20T21:07:49+02:00
-tags: ['👨‍💻 Echo 404']
+tags: ['👨‍💻 Echo 404','👨‍💻 Python','👨‍💻 AI']
 ShowWordCount: false
 hideAuthor: true
 ShowPostNavLinks: false

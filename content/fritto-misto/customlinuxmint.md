@@ -1,7 +1,7 @@
 ---
 title: "Come ho customizzato Linux Mint Cinnamon"
 date: 2024-10-07T21:01:57+02:00
-tags: ['👨‍💻 Echo 404']
+tags: ['👨‍💻 Echo 404','👨‍💻 Linux']
 ShowWordCount: false
 hideAuthor: true
 ShowPostNavLinks: false

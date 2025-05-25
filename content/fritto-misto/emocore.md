@@ -1,7 +1,7 @@
 ---
 title: "Pillole tascabili altamente inutili sull'emo"
 date: 2025-04-15T23:15:08+02:00
-tags: ['📔 Senza Meta']
+tags: ['📔 Senza Meta', '🎶 Musica']
 ShowWordCount: false
 hideAuthor: true
 ShowPostNavLinks: false

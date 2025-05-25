@@ -1,7 +1,7 @@
 ---
 title: 'Come migliorare la tua privacy online'
 date: 2022-11-01T21:15:06+02:00
-tags: ['👨‍💻 Echo 404']
+tags: ['👨‍💻 Echo 404','👨‍💻 Privacy']
 ShowWordCount: false
 hideAuthor: true
 ShowPostNavLinks: false

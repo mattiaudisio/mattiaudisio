@@ -1,7 +1,7 @@
 ---
 title: 'Considerazione nata dopo la visione di "Il regno del pianeta delle scimmie"'
 date: 2024-05-14T17:31:05+02:00
-tags: ['📔 Senza Meta']
+tags: ['📔 Senza Meta','🎞️ Film']
 ShowWordCount: false
 hideAuthor: true
 ShowPostNavLinks: false

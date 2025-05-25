@@ -1,7 +1,7 @@
 ---
 title: 'Recensioni randomiche non richieste su Film, Serie Tv, Videogiochi'
 date: 2024-01-01T17:31:05+02:00
-tags: ['📔 Senza Meta']
+tags: ['📔 Senza Meta', '📺 Serie Tv', '🎮 Videogiochi']
 ShowWordCount: false
 hideAuthor: true
 ShowPostNavLinks: false
