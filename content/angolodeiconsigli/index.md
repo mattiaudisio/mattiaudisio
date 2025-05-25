@@ -104,6 +104,7 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [Nel dubbio scappo dalla realtà](https://www.ilblast.it/nel-dubbio-scappo-dalla-realta/)
 - [Chatbot e documenti](https://prealpinux.com/2025/05/18/chatbot-e-documenti.html)
 - [Why Your Homelab Needs a Domain](https://www.howtogeek.com/why-your-homelab-needs-a-domain/)
+- [Young adults in Europe are putting away smartphones](https://www.dw.com/en/young-adults-in-europe-are-putting-away-smartphones/a-72623121)
 
 ## 🔗 Siti web
 
@@ -123,3 +124,4 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [Shai Network](https://shainetwork.org/sito/)
 - [federicko](https://federicko.neocities.org/)
 - [Just fucking use HTML](https://justfuckingusehtml.com/)
+- [Linux Path](https://www.linux-path.com/en)
