@@ -105,6 +105,7 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [Chatbot e documenti](https://prealpinux.com/2025/05/18/chatbot-e-documenti.html)
 - [Why Your Homelab Needs a Domain](https://www.howtogeek.com/why-your-homelab-needs-a-domain/)
 - [Young adults in Europe are putting away smartphones](https://www.dw.com/en/young-adults-in-europe-are-putting-away-smartphones/a-72623121)
+- [Creo dentro le piattaforme, dunque sono schiavo.](https://beboguidetti.it/2025/05/27/creo-dentro-le-piattaforme-dunque-sono-schiavo/)
 
 ## 🔗 Siti web
 

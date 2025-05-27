@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>👨‍💻 AstroJS on Mattia Audisio</title>
-    <link>http://localhost:1313/tags/-astrojs/</link>
+    <link>https://mattiaudisio.github.io/tags/-astrojs/</link>
     <description>Recent content in 👨‍💻 AstroJS on Mattia Audisio</description>
     <generator>Hugo -- 0.134.3</generator>
     <language>it-it</language>
     <lastBuildDate>Thu, 06 Oct 2022 20:19:50 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/-astrojs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattiaudisio.github.io/tags/-astrojs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Astro Framework Setup Tutorial</title>
-      <link>http://localhost:1313/fritto-misto/astrosetup/</link>
+      <link>https://mattiaudisio.github.io/fritto-misto/astrosetup/</link>
       <pubDate>Thu, 06 Oct 2022 20:19:50 +0200</pubDate>
-      <guid>http://localhost:1313/fritto-misto/astrosetup/</guid>
+      <guid>https://mattiaudisio.github.io/fritto-misto/astrosetup/</guid>
       <description>Come installare il framework Astro all&amp;#39;interno del tuo sito web</description>
     </item>
   </channel>
