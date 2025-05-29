@@ -106,6 +106,7 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [Why Your Homelab Needs a Domain](https://www.howtogeek.com/why-your-homelab-needs-a-domain/)
 - [Young adults in Europe are putting away smartphones](https://www.dw.com/en/young-adults-in-europe-are-putting-away-smartphones/a-72623121)
 - [Creo dentro le piattaforme, dunque sono schiavo.](https://beboguidetti.it/2025/05/27/creo-dentro-le-piattaforme-dunque-sono-schiavo/)
+- [So You Decided to Swap to Linux?](https://the-kjellberg-mail.beehiiv.com/p/so-you-decided-to-swap-to-linux-60ec908e80b94df7)
 
 ## 🔗 Siti web
 
