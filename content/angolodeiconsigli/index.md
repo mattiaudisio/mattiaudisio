@@ -127,3 +127,4 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [federicko](https://federicko.neocities.org/)
 - [Just fucking use HTML](https://justfuckingusehtml.com/)
 - [Linux Path](https://www.linux-path.com/en)
+- [How do I stop using Big Tech products?](https://www.rebeltechalliance.org/stopusingbigtech.html)
