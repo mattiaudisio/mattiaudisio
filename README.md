@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Wordpress, Hugo, PHP, TailwindCSS, Laravel**
 
-- 🌱 I’m currently learning **Laravel** and **Filament**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Music**, **Film**. **Photography**
 
@@ -54,6 +54,9 @@
  <img alt="Linux" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
 <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=whit" />
 </p>
+
+badges taken [here](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+
 
 #
  
