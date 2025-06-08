@@ -57,3 +57,4 @@ Per conclundere quest'articolo, voglio consigliarvi dei launcher Android, minima
 - [EasyLauncher](https://github.com/DroidWorksStudio/EasyLauncher)
 - [mLauncher](https://github.com/DroidWorksStudio/mLauncher)
 - [Kvaesitso](https://github.com/MM2-0/Kvaesitso)
+- [Niaagara Launcher](https://niagaralauncher.com/)
