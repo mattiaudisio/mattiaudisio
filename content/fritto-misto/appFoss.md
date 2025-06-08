@@ -16,6 +16,8 @@ Tempo fa sono incappato in questo [Threads](https://livellosegreto.it/@KSGamingL
 Spinto dalla curiosità ho cominciato ad annotarmi su foglio di testo tutte le app citate all'interno, creando così questa lista.<br />
 Inizalmente è stata fatta per comodità mia ma ho deciso di renderla pubblica a tutti, quindi ringrazio chiunque abbia contribuito alla discussione e di conseguenza all'involontaria costruzione di quest'articolo.
 
+P.S. se siete interessati ad altre app vi consiglio di guardare anche [questo link](https://github.com/offa/android-foss)
+
 ## App Foss
 
 - [Droid-ify](https://f-droid.org/en/packages/com.looker.droidify/) _(alternativa al Play Store)_
@@ -39,10 +41,19 @@ Inizalmente è stata fatta per comodità mia ma ho deciso di renderla pubblica a
 - [DroidShows](https://f-droid.org/it/packages/nl.asymmetrics.droidshows/) _(aggiungere e memorizzare gli episodi delle serie tv viste)_
 - [AuthPass](https://f-droid.org/it/packages/design.codeux.authpass.fdroid/) _(gestore password compatibile con Keepass)_
 - [InnerTune](https://f-droid.org/it/packages/com.zionhuang.music/) _(ascoltare musica in streaming senza account)_
+- [Arcticons](https://github.com/Arcticons-Team/Arcticons) _(Icone personalizzate per il tuo telefono)_
+- [Obtainium](https://github.com/ImranR98/Obtainium) _(Ricevete gli aggiornamenti delle app Android direttamente dalla fonte)_
+- [Breezy Weather](https://github.com/breezy-weather/breezy-weather) _(Un'applicazione meteo in Material Design)_
+- [LocalSend](https://github.com/localsend/localsend) _( Un'alternativa multipiattaforma open-source ad AirDrop)_
+- [Feeder](https://github.com/spacecowboy/Feeder) _( App di lettura RSS per Android)_
+
 
 ## Launcher Android
 
-Per conclundere quest'articolo, voglio consigliarvi due launcher Android, minimalisti e realizzati per ridurre il tuo screen time. Adatti sia per chi cerca un launcher ridotto all'osso sia per chi vuole qualcosa di minimale ma sempre con un gusto grafico.
+Per conclundere quest'articolo, voglio consigliarvi dei launcher Android, minimalisti e realizzati per ridurre il tuo screen time. Adatti sia per chi cerca un launcher ridotto all'osso sia per chi vuole qualcosa di minimale ma sempre con un gusto grafico.
 
 - [Olauncher](https://github.com/tanujnotes/Olauncher)
 - [Focus Launcher](https://github.com/mslalith/focus_launcher)
+- [EasyLauncher](https://github.com/DroidWorksStudio/EasyLauncher)
+- [mLauncher](https://github.com/DroidWorksStudio/mLauncher)
+- [Kvaesitso](https://github.com/MM2-0/Kvaesitso)

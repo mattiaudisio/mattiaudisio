@@ -69,8 +69,37 @@ Con molta probabilità in questi mesi ci saranno degli aggiustamenti, ma voglio 
 
 Ho cominciato ad usare [Twineo](https://codeberg.org/CloudyyUw/twineo) come alternativa per vedermi le live su Twitch e non mi sto trovando male, ogni tanto si blocca e sembra faccia fatica a caricare il video ma tempo qualche secondo riparte senza nessun problema. [Questa è l'istanza che uso](https://twineo.ducks.party/).
 
+Se invece siete interessati a rimanere su twitch consiglio di dare un occhiata a [questo](https://github.com/pixeltris/TwitchAdSolutions) e, se fate parte di quelle nicchia del 'Terminal is love, Terminal is life', mi sa che [questo](https://github.com/krathalan/wtwitch) vi può incuriosire
+
 ---
 
 Ho trovato questa [bella guida sull'autodifesa digitale](https://facciamo.cisti.org/#/) che può essere utile a tanti.
 
 _l'ho trovata mentre cazzeggiavo sulla timeline locale di Livello Segreto e non mi ricordo da chi è stato condiviso, in ogni caso grazie per la scoperta._
+
+---
+
+Ho deciso di fare pulizia dei mie preferiti di Github, togliendo quello che effetivamente non mi serve più (o che ora non trovo l'utilità di tenere salvato) e salvando qua sul sito quelli che ritengo interessanti. A seguire:
+
+**Ottimizzare Firefox**
+
+- [Fox](https://github.com/AveYo/fox) _(Firefox stuff)_
+- [Sidebery](https://github.com/mbnuqw/sidebery) _(Per migliorare graficamente FIrefox)_
+- [BetterFox](https://github.com/yokoffing/Betterfox) _(Firefox user.js for speed, privacy, and security. Your favorite browser, but better.)_
+
+**Decostruire Windows**
+
+- [DistroHelper](https://github.com/KlodCripta/DistroHelper) _(dai, serio, cosa ti costringe a rimanere su Windows?)_
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) _(Se proprio ti tocca rimanere su Windows, almeno fai un debloat)_
+
+**Videogiochi**
+
+- [Pokerogue](https://github.com/pagefaultgames/pokerogue)
+- [Nile](https://github.com/imLinguin/nile) _(Unofficial Amazon Games client)_
+- [Awesome Emulators](https://github.com/alnacle/awesome-emulators) _(A curated list of awesome open source emulators.)_
+- [LCDonald](https://github.com/Difegue/LCDonald) _(Simulator engine for 2000's LCD games featuring a certain blue hedgehog.)_
+- [Azahar](https://github.com/azahar-emu/azahar) _(An open-source 3DS emulator project based on Citra.)_
+- [Citra MMJ](https://github.com/RubensPJ/Citra-MMJ) _(A Nintendo 3DS Emulator)_
+
+**Per IOS**
+- [tutorial ios voice recorder](https://github.com/vasiliy-l/tutorial-ios-voice-recorder) _(A simple voice recording app in Swift)_
