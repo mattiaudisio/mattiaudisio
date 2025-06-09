@@ -54,6 +54,7 @@
 .post-content h1 {
     margin: 40px auto 32px;
     font-size: 40px;
+    font-family: 'Departure Mono', 'Courier New', monospace;
 }
 
 .post-content h2 {
@@ -82,6 +83,8 @@
     box-shadow: 0 1px 0;
     box-decoration-break: clone;
     -webkit-box-decoration-break: clone;
+    font-family: 'Departure Mono', 'Courier New', monospace;
+    color: red;
 }
 
 .post-content a code {
