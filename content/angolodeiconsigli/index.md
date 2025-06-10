@@ -65,6 +65,7 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [Building Better Digital Habits](https://youtu.be/JYCRbND-y10?feature=shared)
 - [SMETTI di comprare GIOCHI](https://www.youtube.com/watch?v=ff6vY0SMsT0)
 - [SCHIZO teorie e MEMETICA. Come si fa la guerriglia dentro la capoccia. feat. IL BLAST](https://youtu.be/LMgUZhnz2ys?feature=shared)
+- [unboxing casa nuova... sono andato a convivere](https://youtu.be/ixjugCik3zY?feature=shared)
 
 ## 🎶 Musica (Songworm)
  

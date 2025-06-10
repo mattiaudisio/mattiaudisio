@@ -7,6 +7,14 @@
   font-display: swap;
 }
 
+@font-face {
+  font-family: 'Lemon Yellow Sun';
+  src: url('/fonts/DK_Lemon_Yellow_Sun.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 .main {
     position: relative;
     min-height: calc(var(--header-height) - var(--footer-height));
