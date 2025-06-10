@@ -101,5 +101,6 @@ Ho deciso di fare pulizia dei mie preferiti di Github, togliendo quello che effe
 - [Azahar](https://github.com/azahar-emu/azahar) _(An open-source 3DS emulator project based on Citra.)_
 - [Citra MMJ](https://github.com/RubensPJ/Citra-MMJ) _(A Nintendo 3DS Emulator)_
 
-**Per IOS**
+**Per Telefoni**
 - [tutorial ios voice recorder](https://github.com/vasiliy-l/tutorial-ios-voice-recorder) _(A simple voice recording app in Swift)_
+- [ReVanced](https://revanced.app/) _(Customize your mobile experience through ReVanced by applying patches to your applications.)_
