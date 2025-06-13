@@ -2,185 +2,185 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Mattia Audisio</title>
-    <link>https://mattiaudisio.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Mattia Audisio</description>
     <generator>Hugo -- 0.134.3</generator>
     <language>it-it</language>
     <lastBuildDate>Fri, 16 May 2025 15:39:40 +0200</lastBuildDate>
-    <atom:link href="https://mattiaudisio.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>☁️ Fritto Misto</title>
-      <link>https://mattiaudisio.github.io/tags/%EF%B8%8F-fritto-misto/</link>
+      <link>http://localhost:1313/tags/%EF%B8%8F-fritto-misto/</link>
       <pubDate>Fri, 16 May 2025 15:39:40 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/tags/%EF%B8%8F-fritto-misto/</guid>
+      <guid>http://localhost:1313/tags/%EF%B8%8F-fritto-misto/</guid>
       <description></description>
     </item>
     <item>
       <title>👨‍💻 Echo 404</title>
-      <link>https://mattiaudisio.github.io/tags/-echo-404/</link>
+      <link>http://localhost:1313/tags/-echo-404/</link>
       <pubDate>Fri, 16 May 2025 15:39:40 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/tags/-echo-404/</guid>
+      <guid>http://localhost:1313/tags/-echo-404/</guid>
       <description></description>
     </item>
     <item>
       <title>👨‍💻 Linux</title>
-      <link>https://mattiaudisio.github.io/tags/-linux/</link>
+      <link>http://localhost:1313/tags/-linux/</link>
       <pubDate>Fri, 16 May 2025 15:39:40 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/tags/-linux/</guid>
+      <guid>http://localhost:1313/tags/-linux/</guid>
       <description></description>
     </item>
     <item>
       <title>👨‍💻 Minimalismo Tecnologico</title>
-      <link>https://mattiaudisio.github.io/tags/-minimalismo-tecnologico/</link>
+      <link>http://localhost:1313/tags/-minimalismo-tecnologico/</link>
       <pubDate>Fri, 25 Apr 2025 21:44:20 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/tags/-minimalismo-tecnologico/</guid>
+      <guid>http://localhost:1313/tags/-minimalismo-tecnologico/</guid>
       <description></description>
     </item>
     <item>
       <title>👨‍💻 Privacy</title>
-      <link>https://mattiaudisio.github.io/tags/-privacy/</link>
+      <link>http://localhost:1313/tags/-privacy/</link>
       <pubDate>Fri, 25 Apr 2025 21:44:20 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/tags/-privacy/</guid>
+      <guid>http://localhost:1313/tags/-privacy/</guid>
       <description></description>
     </item>
     <item>
       <title>📱 IPhone</title>
-      <link>https://mattiaudisio.github.io/tags/-iphone/</link>
+      <link>http://localhost:1313/tags/-iphone/</link>
       <pubDate>Fri, 25 Apr 2025 21:44:20 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/tags/-iphone/</guid>
+      <guid>http://localhost:1313/tags/-iphone/</guid>
       <description></description>
     </item>
     <item>
       <title>📱 Telefono</title>
-      <link>https://mattiaudisio.github.io/tags/-telefono/</link>
+      <link>http://localhost:1313/tags/-telefono/</link>
       <pubDate>Fri, 25 Apr 2025 21:44:20 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/tags/-telefono/</guid>
+      <guid>http://localhost:1313/tags/-telefono/</guid>
       <description></description>
     </item>
     <item>
       <title>👨‍💻 Laravel</title>
-      <link>https://mattiaudisio.github.io/tags/-laravel/</link>
+      <link>http://localhost:1313/tags/-laravel/</link>
       <pubDate>Fri, 18 Apr 2025 22:53:54 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/tags/-laravel/</guid>
+      <guid>http://localhost:1313/tags/-laravel/</guid>
       <description></description>
     </item>
     <item>
       <title>👨‍💻 Web Development</title>
-      <link>https://mattiaudisio.github.io/tags/-web-development/</link>
+      <link>http://localhost:1313/tags/-web-development/</link>
       <pubDate>Fri, 18 Apr 2025 22:53:54 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/tags/-web-development/</guid>
+      <guid>http://localhost:1313/tags/-web-development/</guid>
       <description></description>
     </item>
     <item>
       <title>🎶 Musica</title>
-      <link>https://mattiaudisio.github.io/tags/-musica/</link>
+      <link>http://localhost:1313/tags/-musica/</link>
       <pubDate>Tue, 15 Apr 2025 23:15:08 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/tags/-musica/</guid>
+      <guid>http://localhost:1313/tags/-musica/</guid>
       <description></description>
     </item>
     <item>
       <title>📔 Senza Meta</title>
-      <link>https://mattiaudisio.github.io/tags/-senza-meta/</link>
+      <link>http://localhost:1313/tags/-senza-meta/</link>
       <pubDate>Tue, 15 Apr 2025 23:15:08 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/tags/-senza-meta/</guid>
+      <guid>http://localhost:1313/tags/-senza-meta/</guid>
       <description></description>
     </item>
     <item>
       <title>📷 Photo</title>
-      <link>https://mattiaudisio.github.io/tags/-photo/</link>
+      <link>http://localhost:1313/tags/-photo/</link>
       <pubDate>Wed, 05 Mar 2025 23:07:49 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/tags/-photo/</guid>
+      <guid>http://localhost:1313/tags/-photo/</guid>
       <description></description>
     </item>
     <item>
       <title>👨‍💻 Node.JS</title>
-      <link>https://mattiaudisio.github.io/tags/-node.js/</link>
+      <link>http://localhost:1313/tags/-node.js/</link>
       <pubDate>Wed, 18 Sep 2024 17:08:17 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/tags/-node.js/</guid>
+      <guid>http://localhost:1313/tags/-node.js/</guid>
       <description></description>
     </item>
     <item>
       <title>📱 Android</title>
-      <link>https://mattiaudisio.github.io/tags/-android/</link>
+      <link>http://localhost:1313/tags/-android/</link>
       <pubDate>Sat, 10 Aug 2024 10:15:08 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/tags/-android/</guid>
+      <guid>http://localhost:1313/tags/-android/</guid>
       <description></description>
     </item>
     <item>
       <title>🎞️ Film</title>
-      <link>https://mattiaudisio.github.io/tags/%EF%B8%8F-film/</link>
+      <link>http://localhost:1313/tags/%EF%B8%8F-film/</link>
       <pubDate>Mon, 29 Jul 2024 23:54:55 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/tags/%EF%B8%8F-film/</guid>
+      <guid>http://localhost:1313/tags/%EF%B8%8F-film/</guid>
       <description></description>
     </item>
     <item>
       <title>👨‍💻 Selfhosting</title>
-      <link>https://mattiaudisio.github.io/tags/-selfhosting/</link>
+      <link>http://localhost:1313/tags/-selfhosting/</link>
       <pubDate>Mon, 03 Jun 2024 21:02:25 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/tags/-selfhosting/</guid>
+      <guid>http://localhost:1313/tags/-selfhosting/</guid>
       <description></description>
     </item>
     <item>
       <title>👨‍💻 RSS</title>
-      <link>https://mattiaudisio.github.io/tags/-rss/</link>
+      <link>http://localhost:1313/tags/-rss/</link>
       <pubDate>Wed, 31 Jan 2024 19:04:26 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/tags/-rss/</guid>
+      <guid>http://localhost:1313/tags/-rss/</guid>
       <description></description>
     </item>
     <item>
       <title>👨‍💻 Telegram</title>
-      <link>https://mattiaudisio.github.io/tags/-telegram/</link>
+      <link>http://localhost:1313/tags/-telegram/</link>
       <pubDate>Wed, 31 Jan 2024 19:04:26 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/tags/-telegram/</guid>
+      <guid>http://localhost:1313/tags/-telegram/</guid>
       <description></description>
     </item>
     <item>
       <title>🎮 Videogiochi</title>
-      <link>https://mattiaudisio.github.io/tags/-videogiochi/</link>
+      <link>http://localhost:1313/tags/-videogiochi/</link>
       <pubDate>Mon, 01 Jan 2024 17:31:05 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/tags/-videogiochi/</guid>
+      <guid>http://localhost:1313/tags/-videogiochi/</guid>
       <description></description>
     </item>
     <item>
       <title>📺 Serie Tv</title>
-      <link>https://mattiaudisio.github.io/tags/-serie-tv/</link>
+      <link>http://localhost:1313/tags/-serie-tv/</link>
       <pubDate>Mon, 01 Jan 2024 17:31:05 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/tags/-serie-tv/</guid>
+      <guid>http://localhost:1313/tags/-serie-tv/</guid>
       <description></description>
     </item>
     <item>
       <title>👨‍💻 AI</title>
-      <link>https://mattiaudisio.github.io/tags/-ai/</link>
+      <link>http://localhost:1313/tags/-ai/</link>
       <pubDate>Wed, 20 Dec 2023 21:07:49 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/tags/-ai/</guid>
+      <guid>http://localhost:1313/tags/-ai/</guid>
       <description></description>
     </item>
     <item>
       <title>👨‍💻 Python</title>
-      <link>https://mattiaudisio.github.io/tags/-python/</link>
+      <link>http://localhost:1313/tags/-python/</link>
       <pubDate>Wed, 20 Dec 2023 21:07:49 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/tags/-python/</guid>
+      <guid>http://localhost:1313/tags/-python/</guid>
       <description></description>
     </item>
     <item>
       <title>🏋️ Fitness</title>
-      <link>https://mattiaudisio.github.io/tags/%EF%B8%8F-fitness/</link>
+      <link>http://localhost:1313/tags/%EF%B8%8F-fitness/</link>
       <pubDate>Fri, 01 Dec 2023 16:14:43 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/tags/%EF%B8%8F-fitness/</guid>
+      <guid>http://localhost:1313/tags/%EF%B8%8F-fitness/</guid>
       <description></description>
     </item>
     <item>
       <title>📔 Libri</title>
-      <link>https://mattiaudisio.github.io/tags/-libri/</link>
+      <link>http://localhost:1313/tags/-libri/</link>
       <pubDate>Sun, 08 Oct 2023 17:31:05 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/tags/-libri/</guid>
+      <guid>http://localhost:1313/tags/-libri/</guid>
       <description></description>
     </item>
     <item>
       <title>👨‍💻 AstroJS</title>
-      <link>https://mattiaudisio.github.io/tags/-astrojs/</link>
+      <link>http://localhost:1313/tags/-astrojs/</link>
       <pubDate>Thu, 06 Oct 2022 20:19:50 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/tags/-astrojs/</guid>
+      <guid>http://localhost:1313/tags/-astrojs/</guid>
       <description></description>
     </item>
   </channel>

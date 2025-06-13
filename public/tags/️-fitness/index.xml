@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>🏋️ Fitness on Mattia Audisio</title>
-    <link>https://mattiaudisio.github.io/tags/%EF%B8%8F-fitness/</link>
+    <link>http://localhost:1313/tags/%EF%B8%8F-fitness/</link>
     <description>Recent content in 🏋️ Fitness on Mattia Audisio</description>
     <generator>Hugo -- 0.134.3</generator>
     <language>it-it</language>
     <lastBuildDate>Fri, 01 Dec 2023 16:14:43 +0200</lastBuildDate>
-    <atom:link href="https://mattiaudisio.github.io/tags/%EF%B8%8F-fitness/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%EF%B8%8F-fitness/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Un mese di sfida.. per diminuire  lo schifo verso me stesso</title>
-      <link>https://mattiaudisio.github.io/fritto-misto/challengenovembre/</link>
+      <link>http://localhost:1313/fritto-misto/challengenovembre/</link>
       <pubDate>Fri, 01 Dec 2023 16:14:43 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/fritto-misto/challengenovembre/</guid>
+      <guid>http://localhost:1313/fritto-misto/challengenovembre/</guid>
       <description>mega recap di una sfida che ho deciso di fare</description>
     </item>
   </channel>

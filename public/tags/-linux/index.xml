@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>👨‍💻 Linux on Mattia Audisio</title>
-    <link>https://mattiaudisio.github.io/tags/-linux/</link>
+    <link>http://localhost:1313/tags/-linux/</link>
     <description>Recent content in 👨‍💻 Linux on Mattia Audisio</description>
     <generator>Hugo -- 0.134.3</generator>
     <language>it-it</language>
     <lastBuildDate>Fri, 16 May 2025 15:39:40 +0200</lastBuildDate>
-    <atom:link href="https://mattiaudisio.github.io/tags/-linux/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/-linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Appunti da un diario digitale</title>
-      <link>https://mattiaudisio.github.io/fritto-misto/resocontodigitale/</link>
+      <link>http://localhost:1313/fritto-misto/resocontodigitale/</link>
       <pubDate>Fri, 16 May 2025 15:39:40 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/fritto-misto/resocontodigitale/</guid>
+      <guid>http://localhost:1313/fritto-misto/resocontodigitale/</guid>
       <description>un resoconto veloce e scarabocchiato legato alle cose fatte nel mondo tech</description>
     </item>
     <item>
       <title>Come ho customizzato Linux Mint Cinnamon</title>
-      <link>https://mattiaudisio.github.io/fritto-misto/customlinuxmint/</link>
+      <link>http://localhost:1313/fritto-misto/customlinuxmint/</link>
       <pubDate>Mon, 07 Oct 2024 21:01:57 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/fritto-misto/customlinuxmint/</guid>
+      <guid>http://localhost:1313/fritto-misto/customlinuxmint/</guid>
       <description>UX porn</description>
     </item>
   </channel>

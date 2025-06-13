@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>👨‍💻 Web Development on Mattia Audisio</title>
-    <link>https://mattiaudisio.github.io/tags/-web-development/</link>
+    <link>http://localhost:1313/tags/-web-development/</link>
     <description>Recent content in 👨‍💻 Web Development on Mattia Audisio</description>
     <generator>Hugo -- 0.134.3</generator>
     <language>it-it</language>
     <lastBuildDate>Fri, 18 Apr 2025 22:53:54 +0200</lastBuildDate>
-    <atom:link href="https://mattiaudisio.github.io/tags/-web-development/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/-web-development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Implementare le API di Google Calendar sul tuo sito Laravel</title>
-      <link>https://mattiaudisio.github.io/fritto-misto/laravel-calendar-api/</link>
+      <link>http://localhost:1313/fritto-misto/laravel-calendar-api/</link>
       <pubDate>Fri, 18 Apr 2025 22:53:54 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/fritto-misto/laravel-calendar-api/</guid>
+      <guid>http://localhost:1313/fritto-misto/laravel-calendar-api/</guid>
       <description>Piccolo tutorial fatto per evitare altre novantamila bestemmie</description>
     </item>
     <item>
       <title>Come realizzare un sito web da vero soydevs</title>
-      <link>https://mattiaudisio.github.io/fritto-misto/soydevs/</link>
+      <link>http://localhost:1313/fritto-misto/soydevs/</link>
       <pubDate>Wed, 18 Sep 2024 17:08:17 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/fritto-misto/soydevs/</guid>
+      <guid>http://localhost:1313/fritto-misto/soydevs/</guid>
       <description>Corri a prendere il tuo caffè Starbucks, è ora di scrivere qualche riga in Javascript</description>
     </item>
     <item>
       <title>Come pubblicare gratuitamente un sito web (statico o dinamico)</title>
-      <link>https://mattiaudisio.github.io/fritto-misto/pubblicaresitoweb/</link>
+      <link>http://localhost:1313/fritto-misto/pubblicaresitoweb/</link>
       <pubDate>Thu, 19 Jan 2023 21:26:12 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/fritto-misto/pubblicaresitoweb/</guid>
+      <guid>http://localhost:1313/fritto-misto/pubblicaresitoweb/</guid>
       <description>Fatto il sito? È il momento di andare online!</description>
     </item>
     <item>
       <title>Astro Framework Setup Tutorial</title>
-      <link>https://mattiaudisio.github.io/fritto-misto/astrosetup/</link>
+      <link>http://localhost:1313/fritto-misto/astrosetup/</link>
       <pubDate>Thu, 06 Oct 2022 20:19:50 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/fritto-misto/astrosetup/</guid>
+      <guid>http://localhost:1313/fritto-misto/astrosetup/</guid>
       <description>Come installare il framework Astro all&amp;#39;interno del tuo sito web</description>
     </item>
   </channel>

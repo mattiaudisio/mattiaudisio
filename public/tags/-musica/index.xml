@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>🎶 Musica on Mattia Audisio</title>
-    <link>https://mattiaudisio.github.io/tags/-musica/</link>
+    <link>http://localhost:1313/tags/-musica/</link>
     <description>Recent content in 🎶 Musica on Mattia Audisio</description>
     <generator>Hugo -- 0.134.3</generator>
     <language>it-it</language>
     <lastBuildDate>Tue, 15 Apr 2025 23:15:08 +0200</lastBuildDate>
-    <atom:link href="https://mattiaudisio.github.io/tags/-musica/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/-musica/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pillole tascabili altamente inutili sull&#39;emo</title>
-      <link>https://mattiaudisio.github.io/fritto-misto/emocore/</link>
+      <link>http://localhost:1313/fritto-misto/emocore/</link>
       <pubDate>Tue, 15 Apr 2025 23:15:08 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/fritto-misto/emocore/</guid>
+      <guid>http://localhost:1313/fritto-misto/emocore/</guid>
       <description>Una serie di informazioni che ho ricavato per un progetto ormai concluso</description>
     </item>
   </channel>
