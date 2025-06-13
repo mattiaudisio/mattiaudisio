@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>👨‍💻 Selfhosting on Mattia Audisio</title>
-    <link>http://localhost:1313/tags/-selfhosting/</link>
+    <link>https://mattiaudisio.github.io/tags/-selfhosting/</link>
     <description>Recent content in 👨‍💻 Selfhosting on Mattia Audisio</description>
     <generator>Hugo -- 0.134.3</generator>
     <language>it-it</language>
     <lastBuildDate>Mon, 03 Jun 2024 21:02:25 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/-selfhosting/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattiaudisio.github.io/tags/-selfhosting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Come ho installato localmente invidious</title>
-      <link>http://localhost:1313/fritto-misto/invidious/</link>
+      <link>https://mattiaudisio.github.io/fritto-misto/invidious/</link>
       <pubDate>Mon, 03 Jun 2024 21:02:25 +0200</pubDate>
-      <guid>http://localhost:1313/fritto-misto/invidious/</guid>
+      <guid>https://mattiaudisio.github.io/fritto-misto/invidious/</guid>
       <description>Un mondo alternativo di guardare YouTube</description>
     </item>
     <item>
       <title>Come ho installato Nextcloud su un Raspberry Pi 3</title>
-      <link>http://localhost:1313/fritto-misto/raspberrynextcloud/</link>
+      <link>https://mattiaudisio.github.io/fritto-misto/raspberrynextcloud/</link>
       <pubDate>Sun, 14 Apr 2024 19:32:17 +0200</pubDate>
-      <guid>http://localhost:1313/fritto-misto/raspberrynextcloud/</guid>
+      <guid>https://mattiaudisio.github.io/fritto-misto/raspberrynextcloud/</guid>
       <description>Crea il tuo Drive personale tramite un Raspberry Pi</description>
     </item>
   </channel>
