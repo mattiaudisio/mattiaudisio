@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>📱 Android on Mattia Audisio</title>
-    <link>http://localhost:1313/tags/-android/</link>
+    <link>https://mattiaudisio.github.io/tags/-android/</link>
     <description>Recent content in 📱 Android on Mattia Audisio</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>it-it</language>
     <lastBuildDate>Sat, 10 Aug 2024 10:15:08 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/-android/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mattiaudisio.github.io/tags/-android/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Come realizzare un moderno Dumbphone</title>
-      <link>http://localhost:1313/fritto-misto/dumbphone/</link>
+      <link>https://mattiaudisio.github.io/fritto-misto/dumbphone/</link>
       <pubDate>Sat, 10 Aug 2024 10:15:08 +0200</pubDate>
-      <guid>http://localhost:1313/fritto-misto/dumbphone/</guid>
+      <guid>https://mattiaudisio.github.io/fritto-misto/dumbphone/</guid>
       <description>Come cerco di ridurre la mia dipendenza dallo smartphone</description>
     </item>
     <item>
       <title>Rendere il tuo telefono ＦＯＳＳ　往いぞ</title>
-      <link>http://localhost:1313/fritto-misto/appfoss/</link>
+      <link>https://mattiaudisio.github.io/fritto-misto/appfoss/</link>
       <pubDate>Sun, 14 Apr 2024 20:12:07 +0200</pubDate>
-      <guid>http://localhost:1313/fritto-misto/appfoss/</guid>
+      <guid>https://mattiaudisio.github.io/fritto-misto/appfoss/</guid>
       <description>Una lista di APP che ti permetteranno di rendere il tuo telefono sempre più open source</description>
     </item>
   </channel>
