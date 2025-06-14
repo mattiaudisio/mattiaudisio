@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>🎮 Videogiochi on Mattia Audisio</title>
-    <link>https://mattiaudisio.github.io/tags/-videogiochi/</link>
+    <link>http://localhost:1313/tags/-videogiochi/</link>
     <description>Recent content in 🎮 Videogiochi on Mattia Audisio</description>
-    <generator>Hugo -- 0.134.3</generator>
+    <generator>Hugo -- 0.146.0</generator>
     <language>it-it</language>
     <lastBuildDate>Mon, 01 Jan 2024 17:31:05 +0200</lastBuildDate>
-    <atom:link href="https://mattiaudisio.github.io/tags/-videogiochi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/-videogiochi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Recensioni randomiche non richieste su Film, Serie Tv, Videogiochi</title>
-      <link>https://mattiaudisio.github.io/fritto-misto/recensioni/</link>
+      <link>http://localhost:1313/fritto-misto/recensioni/</link>
       <pubDate>Mon, 01 Jan 2024 17:31:05 +0200</pubDate>
-      <guid>https://mattiaudisio.github.io/fritto-misto/recensioni/</guid>
+      <guid>http://localhost:1313/fritto-misto/recensioni/</guid>
       <description>Un elenco non finito di recensioni randomiche che ho lascitato in giro per l&amp;#39;internet con account che ora non esistono più.</description>
     </item>
   </channel>
