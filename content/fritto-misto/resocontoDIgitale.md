@@ -34,7 +34,7 @@ Sopra ci protete trovare tutti i podcast hostati su Itunes e, se volete, potete 
 
 Ad oggi, data di uscita di questo articolo, i podcast che sto ascoltando sono: [Fandemonio](https://podcasts.apple.com/us/podcast/fandemonio/id1765325279), [Il podcast di Matteo Gracis](https://podcasts.apple.com/us/podcast/il-podcast-di-matteo-gracis/id1801997533), [La tua sovranità digitale](https://podcasts.apple.com/us/podcast/la-tua-sovranit%C3%A0-digitale/id1723017461), [More Touchy Show](https://podcasts.apple.com/us/podcast/more-touchy-show/id1772574222), [Tilde](https://podcasts.apple.com/us/podcast/tilde/id1543929965), [Das Böse Büro](https://keinpfusch.net/podcast).
 
-Lato musica, invece, sto cercando di utilizzare il poco spazio libero che sul telefono per caricare più pezzi possibili da tenermi in locale. In futuro vedrò poi come fare.
+Lato musica, invece, ho deciso di tenermi le canzoni in locale, usando l'app Music di Apple. Per ora mi sto trovando bene.
 
 ---
 
@@ -81,16 +81,14 @@ _l'ho trovata mentre cazzeggiavo sulla timeline locale di Livello Segreto e non 
 
 Ho deciso di fare pulizia dei mie preferiti di Github, togliendo quello che effetivamente non mi serve più (o che ora non trovo l'utilità di tenere salvato) e salvando qua sul sito quelli che ritengo interessanti. A seguire:
 
-**Ottimizzare Firefox**
+**Ottimizzare Firefox per decostruire Windows**
 
 - [Fox](https://github.com/AveYo/fox) _(Firefox stuff)_
 - [Sidebery](https://github.com/mbnuqw/sidebery) _(Per migliorare graficamente FIrefox)_
 - [BetterFox](https://github.com/yokoffing/Betterfox) _(Firefox user.js for speed, privacy, and security. Your favorite browser, but better.)_
-
-**Decostruire Windows**
-
 - [DistroHelper](https://github.com/KlodCripta/DistroHelper) _(dai, serio, cosa ti costringe a rimanere su Windows?)_
 - [Win11Debloat](https://github.com/Raphire/Win11Debloat) _(Se proprio ti tocca rimanere su Windows, almeno fai un debloat)_
+- [idonthavespotify](https://github.com/sjdonado/idonthavespotify) _(Effortlessly convert Spotify links to your preferred streaming service)_
 
 **Videogiochi**
 
@@ -104,3 +102,61 @@ Ho deciso di fare pulizia dei mie preferiti di Github, togliendo quello che effe
 **Per Telefoni**
 - [tutorial ios voice recorder](https://github.com/vasiliy-l/tutorial-ios-voice-recorder) _(A simple voice recording app in Swift)_
 - [ReVanced](https://revanced.app/) _(Customize your mobile experience through ReVanced by applying patches to your applications.)_
+
+---
+
+Ho fatto pulizia delle mie iscrizioni Youtube (in particolare esteri). Qua un elenco di canali (anche abbastanza strani) per far capire in che rabbit hole malato sono finito:
+
+**Tecnologia (Linux, privacy e robe simili)**
+
+- [Ambro's](https://www.youtube.com/channel/UCWm2Zy4ujLaN3Hj_IEVrCiw)
+- [bashbunni](https://www.youtube.com/channel/UC9H0HzpKf5JlazkADWnW1Jw)
+- [Biased Riot](https://www.youtube.com/channel/UCehh50T6qtDpt_kEUF33GJw)
+- [devaslife](https://www.youtube.com/channel/UC7yZ6keOGsvERMp2HaEbbXQ)
+- [Evangelos | Software Engineer](https://www.youtube.com/channel/UCFvsN6uB84NMbiNYHi-TIcg)
+- [Finzar](https://www.youtube.com/channel/UClbf3kWcT1KGn-WnKPwq7vQ)
+- [ForrestKnight](https://www.youtube.com/channel/UC2WHjPDvbE6O328n17ZGcfg)
+- [Mera](https://www.youtube.com/channel/UCgqxVXLHn1uL7XP0ToI8dAQ)
+- [NapoleoneWils0n](https://www.youtube.com/channel/UCriRR_CzOny-akXyk1R-oDQ)
+- [Nicholas Henkey](https://www.youtube.com/channel/UCQTQ7WgZO_5C6wib582uIRg)
+- [rwxrob](https://www.youtube.com/channel/UCs2Kaw3Soa63cJq3H0VA7og)
+- [Side of Burritos](https://www.youtube.com/channel/UCij1VEjDb88RCbqsvZ1gqaw)
+- [Sylvan Franklin](https://www.youtube.com/channel/UC04nROIJrY22Gl2aFqKcdqQ)
+- [Takuya Matsuyama](https://www.youtube.com/channel/UCBZA3z_u8LPiVuIo7YUdDcg)
+- [Veronica Explains](https://www.youtube.com/channel/UCMiyV_Ib77XLpzHPQH_q0qQ)
+
+**Produttività (Midnset, workflow e stronzate varie)**
+
+- [Alessandro Arangino](https://www.youtube.com/channel/UCfKO5swLzixLMDr8Qh_GTzQ)
+- [Better Ideas](https://www.youtube.com/channel/UCtUId5WFnN82GdDy7DgaQ7w)
+- [Garden of Aidan](https://www.youtube.com/channel/UCLt7kATswRCTXxiOU1kZUTw) _(Questo tipo di canali sono stati un rabbit hole fantastico)_
+- [Jordan Green](https://www.youtube.com/channel/UCc7LiE7HX2jN2Z0g9ZxZ8YA)
+- [Jordan Green Unfiltered](https://www.youtube.com/channel/UCoKaVKn89YprYAgSpKDBfMg)
+
+**Culura pop (mega termina per dire: "calderone con dentro stronzate varie")**
+
+- [Noah Samsen](https://www.youtube.com/channel/UCAXCE0MLOSTTkkOU1HTh_IA)
+- [Rob's Media](https://www.youtube.com/channel/UCTNEyXNnGpMqpR3eb9w1hyw)
+- [Sorelle Amore](https://www.youtube.com/channel/UCkbTTGoBpjX8ogXHCt-aegw)
+- [Simo Riccio](https://www.youtube.com/channel/UCoTkeGwELFsriYJ5BvSfUsQ)
+- [Survive the Jive](https://www.youtube.com/channel/UCZAENaOaceQUMd84GDc26EA)
+- [wrong trousers](https://www.youtube.com/channel/UC4jnH5awmTtipD226USVkVQ)
+
+--- 
+
+Sentimental Corp.
+
+[cosa](https://youtu.be/CWngKKbPKm0) [cazzo](https://youtu.be/xunZEaEt9YE) [significa](https://youtu.be/uR9wMT0fXi0)?
+
+_P.S. parere personale: QUesto sito non è ne un sito disturbante ne un sito macrabo. Se per te è la cosa più inquietante su internet ti consiglio di staccarti da Tik Tok e Instagram e farti un giro sul web._
+
+
+---
+
+Finalmente ho deciso di acquistare un dominio per questo sito. Inizialmente la mia intenzione era prendemi un hosting con dominio, ma per ora ho fatto che collegare la Github Pages al dominio.
+
+Quindi sì, il sito sta diventando grande.
+
+---
+
+Sono venuto a conoscenza del [Protocollo Gemini](https://en.wikipedia.org/wiki/Gemini_(protocol)) e di [Lagrange](https://gmi.skyjake.fi/lagrange/). Da un lato lo trovo un progetto molto interessante ma dall'altro non ne sono così convinto. Sarà che siamo talmente abituati all'https che non ci rendiamo conto di sti protocolli, ma alla fine non sento di esserne rimasto folgorato.
