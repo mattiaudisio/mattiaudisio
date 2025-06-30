@@ -67,6 +67,22 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [SCHIZO teorie e MEMETICA. Come si fa la guerriglia dentro la capoccia. feat. IL BLAST](https://youtu.be/LMgUZhnz2ys?feature=shared)
 - [unboxing casa nuova... sono andato a convivere](https://youtu.be/ixjugCik3zY?feature=shared)
 
+## 🎬 Video raccolta su self hosting e linux
+
+- [Con questo ora google non ruba più i miei dati](https://youtu.be/jQp-SUhwdHE?feature=shared)
+- [PROXMOX + TrueNAS sul mio SERVER da 100 EURO ( XEON 14 core / 28 thread )](https://youtu.be/D5jU3uaqhIg?feature=shared)
+- [LIBERATI DALLE BIG TECH 🥏 CON IL SELFHOSTING E RISPARMIA. SELFHOSTING](https://youtu.be/igFIL_7y5Gs?feature=shared)
+- [COME TRASFORMARE UNO SMARTPHONE IN UN SERVER CON UNA APP!](https://youtu.be/Fg8Q0_dae68?feature=shared)
+- [Linux mi ha reso PIGRO ma PRODUTTIVO](https://youtu.be/_uZ-2Mn5TEg?feature=shared)
+- [Che servizi ho sul mio server? | Home Lab](https://youtu.be/fKhGoMARH9M?feature=shared)
+- [Rispondo alle vostre domande sui miei server | Home Server Q&A](https://youtu.be/Do9OOicy7LY?feature=shared)
+- [I miei SERVER a fine 2023 - cosa è cambiato?](https://youtu.be/ANEqHrT3Btw?feature=shared)
+- [Come GESTISCO i miei SERVER \ Docker \ Portainer \ Cloudflare \ NGINX Proxy Manager](https://youtu.be/EQ3CLyexs_8?feature=shared)
+- [🏠️ Cloud a KM0 con Docker / docker-compose e Linux 5.0](https://youtu.be/OvQ3Dc3m8MQ?feature=shared)
+- [🔴 CLOUD PRIVATO SELFHOSTING, PERCHE' E' IMPORTANTE?](https://youtu.be/SVag2-XNGj0?feature=shared)
+- [build your own cloud](https://youtu.be/xBIowQ0WaR8?feature=shared)
+- [I'm DONE with Google](https://youtu.be/u_Lxkt50xOg)
+
 ## 🎶 Musica (Songworm)
  
 - [La macchina desiderante – Felici come un computer](https://www.lamacchinadesiderante.org/felici-come-un-computer/)
