@@ -66,6 +66,12 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [SMETTI di comprare GIOCHI](https://www.youtube.com/watch?v=ff6vY0SMsT0)
 - [SCHIZO teorie e MEMETICA. Come si fa la guerriglia dentro la capoccia. feat. IL BLAST](https://youtu.be/LMgUZhnz2ys?feature=shared)
 - [unboxing casa nuova... sono andato a convivere](https://youtu.be/ixjugCik3zY?feature=shared)
+- [How Japan escaped Obesity while America got Fat](https://youtu.be/TH6Wq4KWu7M)
+- [I Tried 30 Viral Health Trends For 30 Days to See What's Worth It](https://youtu.be/nygR3g0-lts)
+- [I switched from Linux to FreeBSD. Here's how that went](https://youtu.be/Rk5kJ2iWYaU)
+- [Per chi sente il PESO della vita crescendo](https://youtu.be/hnjw8R0aIZc?feature=shared)
+- [Why things Feel “OFF” Lately — The GLITCH.](https://youtu.be/wsF3REbr-44)
+
 
 ## 🎬 Video raccolta su self hosting e linux
 
