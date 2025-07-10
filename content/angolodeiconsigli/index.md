@@ -71,6 +71,8 @@ Ed e qua che viene in aiuto questa pagina.. una lista di video, musica, libri e 
 - [I switched from Linux to FreeBSD. Here's how that went](https://youtu.be/Rk5kJ2iWYaU)
 - [Per chi sente il PESO della vita crescendo](https://youtu.be/hnjw8R0aIZc?feature=shared)
 - [Why things Feel “OFF” Lately — The GLITCH.](https://youtu.be/wsF3REbr-44)
+- [Ego e live coding (a ben vedere, un discorso che vale per molto altro)](https://youtu.be/dEL0eE0ECqg?feature=shared)
+- [streaming was a mistake...](https://youtu.be/RDmzV9GGySg?feature=shared)
 
 
 ## 🎬 Video raccolta su self hosting e linux
