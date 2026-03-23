@@ -1,19 +1,13 @@
 <h1 align="center" style="color: #ffffff;">Hi 👋, I'm Mattia Audisio</h1>
 <h5 align="center" style="color: #ffffff;">Digital Craftsman (Web developer, Video editor)</h5>
-<img align="right" alt="Coding" width="300" src="icon.png">
+<img align="right" alt="Coding" width="200" src="icon.png">
 
 
-- 🔭 I’m currently working on **Wordpress, Hugo, PHP, TailwindCSS, Laravel**
+- 🔭 I’m currently working on **Wordpress, Hugo, PHP, TailwindCSS, Laravel, Flutter**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m learning **photo editing** and **post-processing**.
 
 - 💬 Ask me about **Music**, **Film**. **Photography**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://mattiaudisio.github.io/" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="mattia-audisio" /></a>
-</p>
-
 
 <h2 align="left">🧰 Languages and Tools:</h3>
 
