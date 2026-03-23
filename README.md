@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Music**, **Film**. **Photography**
 
-<h2 align="left">🧰 Languages and Tools:</h3>
+### 🧰 Languages and Tools:
 
 ### 👩‍💻 Languages
 
